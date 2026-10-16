@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-10-16T15:49:54.784Z",
+  "source": "Fresh single-branch clone of local main through Git transport",
+  "commit": "a4f721b486339025262ff0779199ec038580b4d2",
+  "node": "v24.19.0",
+  "install": "npm ci passed; 0 reported vulnerabilities",
+  "unitTests": {
+    "passed": 87,
+    "failed": 0
+  },
+  "typecheck": "passed",
+  "productionBuild": "passed",
+  "assetContract": "passed",
+  "publicContract": "passed",
+  "actualRigChecks": "passed",
+  "historyPrivacyScan": "passed",
+  "storedObjects": 333,
+  "reachableObjects": 333,
+  "extraObjects": 0,
+  "devRoutes": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/src/main.ts",
+      "status": 200
+    },
+    {
+      "path": "/models/sedan-01/1.1.0/manifest.json",
+      "status": 200
+    }
+  ],
+  "remoteVerification": "pending publication",
+  "binaryAssetComparison": {
+    "checked": 15,
+    "differences": []
+  },
+  "normalizedRuntimeTextComparison": {
+    "checked": 44,
+    "differences": []
+  }
+}

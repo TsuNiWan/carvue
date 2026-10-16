@@ -1,0 +1,15 @@
+[
+  {
+    "testId": "c6beb51bfea44d74f96f-b358da041d2a40050365",
+    "title": "五車互動連續 30 分鐘沒有例外、停止繪製或累積 GPU 資源",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "soak.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 1293788,
+    "outcome": "unexpected",
+    "ok": false
+  }
+]
