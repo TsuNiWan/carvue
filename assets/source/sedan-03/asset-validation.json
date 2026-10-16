@@ -1,0 +1,45 @@
+{
+  "vehicleId": "sedan-03",
+  "assetVersion": "1.1.0",
+  "sha256": "be7bd04a5e3f7bd7cf2aad9b02e77977d434fd97f5d5674665a8250f30867672",
+  "bytes": 8327332,
+  "meshes": 99,
+  "triangles": 729340,
+  "min": [
+    -1.0839999914169312,
+    0,
+    -2.5248115062713623
+  ],
+  "max": [
+    1.0839999914169312,
+    1.4399985074996948,
+    2.2438881397247314
+  ],
+  "dimensionsWithMirrors": [
+    2.1679999828338623,
+    1.4399985074996948,
+    4.768699645996094
+  ],
+  "wheelbases": {
+    "Left": 2.865000009536743,
+    "Right": 2.865000009536743
+  },
+  "referenceDimensions": {
+    "length": 4.751,
+    "width": 1.82,
+    "height": 1.44,
+    "wheelbase": 2.865
+  },
+  "checkedAt": "2026-10-16T15:22:27.390Z",
+  "checks": [
+    "GLB structure",
+    "model and manifest identity",
+    "joint nodes and axes",
+    "light emission colors",
+    "self-contained asset budget",
+    "coordinate convention",
+    "vehicle dimensions and wheelbase",
+    "finite geometry"
+  ],
+  "visualApproval": "pending human review"
+}

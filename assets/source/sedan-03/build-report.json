@@ -1,0 +1,18 @@
+{
+  "dimensionsMeters": [
+    4.751,
+    1.82,
+    1.44
+  ],
+  "wheelbaseMeters": 2.865,
+  "frontTyre": "225/45 R18",
+  "rearTyre": "245/40 R18",
+  "wheelDesign": "Study silver paired multi-spoke",
+  "construction": "Independent Study longitudinal and transverse fields; native physical-grid apertures and shared lamp/deck boundaries",
+  "closedTransforms": "GLB local transforms are the closed pose; manifest motion is relative to each articulated node.",
+  "qualityStatus": "Initial independent reconstruction; not visually approved. Requires external shape, articulation and WebGL review.",
+  "vehicleId": "sedan-03",
+  "blenderVersion": "4.5.14 LTS",
+  "glbBytes": 14269216,
+  "meshCount": 99
+}

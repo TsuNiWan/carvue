@@ -1,0 +1,17 @@
+{
+  "dimensionsMeters": [
+    4.69,
+    1.865,
+    1.68
+  ],
+  "wheelbaseMeters": 2.7,
+  "tyres": "235/60 R18",
+  "construction": "Independent \u5bb6\u5ead\u4f11\u65c5 nonuniform Hermite body sections and shared aperture boundaries",
+  "closedTransforms": "The original GLB node transform is the closed pose; manifest rotations are relative local-axis rotations.",
+  "qualityStatus": "Initial independent reconstruction; requires shape, open-state and WebGL review before verification.",
+  "vehicleId": "suv-01",
+  "blenderVersion": "4.5.14 LTS",
+  "glbBytes": 21036032,
+  "meshCount": 76,
+  "provenance": "Reconstructed from historical real-vehicle reference observation; exterior rights unverified"
+}

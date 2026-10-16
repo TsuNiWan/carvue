@@ -1,0 +1,25 @@
+{
+  "source": {
+    "path": "assets/source/sedan-01/vehicle.raw.glb",
+    "bytes": 8800096,
+    "sha256": "4c73e368bc73cecd6987b4c11ccd1683b009de96ab64d157f0f63b0bcd220a11"
+  },
+  "packed": {
+    "path": "public/models/sedan-01/1.1.0/vehicle.glb",
+    "bytes": 5131752,
+    "sha256": "1a6bd08696ff9d5e4bb34535e2077430e2b8498d520dcb318a670bc117f87212"
+  },
+  "ratio": 0.5831472747570027,
+  "meshes": 93,
+  "primitives": 93,
+  "attributes": 186,
+  "triangles": 414242,
+  "checks": [
+    "Exact vertex attributes",
+    "Triangle corners and winding",
+    "Scene nodes and transforms",
+    "Material definitions",
+    "Joint names and identity extras"
+  ],
+  "checkedAt": "2026-10-16T14:48:17.417Z"
+}

@@ -1,0 +1,45 @@
+{
+  "vehicleId": "suv-02",
+  "assetVersion": "1.1.0",
+  "sha256": "17ff905b7377f8196841407e899184c6abc807162d7608a91509cd677c67b81e",
+  "bytes": 7441604,
+  "meshes": 91,
+  "triangles": 621060,
+  "min": [
+    -1.0660000145435333,
+    -0.000576019287109375,
+    -2.4532408714294434
+  ],
+  "max": [
+    1.0660000145435333,
+    1.6569992303848267,
+    2.3320000171661377
+  ],
+  "dimensionsWithMirrors": [
+    2.1320000290870667,
+    1.657575249671936,
+    4.785240888595581
+  ],
+  "wheelbases": {
+    "Left": 2.865000009536743,
+    "Right": 2.865000009536743
+  },
+  "referenceDimensions": {
+    "length": 4.755,
+    "width": 1.92,
+    "height": 1.66,
+    "wheelbase": 2.865
+  },
+  "checkedAt": "2026-10-16T15:22:26.885Z",
+  "checks": [
+    "GLB structure",
+    "model and manifest identity",
+    "joint nodes and axes",
+    "light emission colors",
+    "self-contained asset budget",
+    "coordinate convention",
+    "vehicle dimensions and wheelbase",
+    "finite geometry"
+  ],
+  "visualApproval": "pending human review"
+}

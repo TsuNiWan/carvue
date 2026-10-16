@@ -1,0 +1,32 @@
+{
+  "status": "development",
+  "visualApproval": "pending",
+  "identity": "suv-02 debranded reconstruction",
+  "dimensionsMeters": {
+    "length": 4.755,
+    "bodyWidth": 1.92,
+    "widthWithMirrors": 2.132,
+    "height": 1.66,
+    "wheelbase": 2.865
+  },
+  "wheels": "941 aero 8.5J x 19, 245/50 R19, independent geometry",
+  "buildSources": [
+    "scripts/modeling/build_suv_02.py",
+    "scripts/modeling/suv_02_surfaces.py",
+    "scripts/modeling/suv_02_cabin.py",
+    "scripts/modeling/vehicle_authoring.py",
+    "scripts/modeling/mesh_aperture.py",
+    "scripts/modeling/convex_support.py",
+    "scripts/modeling/convex-hull.mjs"
+  ],
+  "surfaceConstruction": "Independent C1 longitudinal Hermite profiles and sculpted transverse sections; no Study mesh reuse",
+  "limitations": [
+    "Tailgate inner full view and upper hinge detail lack full photographic coverage; structure is authored approximation",
+    "First geometry export requires neutral-light eight-angle and articulated-opening review before approval"
+  ],
+  "vehicleId": "suv-02",
+  "blenderVersion": "4.5.14 LTS",
+  "glbBytes": 12580036,
+  "meshCount": 91,
+  "provenance": "Reconstructed from historical real-vehicle reference observation; exterior rights unverified"
+}

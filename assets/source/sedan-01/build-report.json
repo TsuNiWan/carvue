@@ -1,0 +1,228 @@
+{
+  "vehicleId": "sedan-01",
+  "blenderVersion": "4.5.14 LTS",
+  "polygonCount": 212083,
+  "meshCount": 93,
+  "glbBytes": 8800096,
+  "handlePlacements": [
+    {
+      "part": "frontLeft",
+      "center": [
+        0.8649997148289014,
+        0.9102856059146226,
+        -0.08199999999999999
+      ],
+      "doorTrailingZ": -0.242,
+      "offsetFromTrailingEdge": 0.16,
+      "gripLength": 0.19,
+      "bowlDepth": 0.014,
+      "sourceStatus": "Photo calibrated; not factory measurements"
+    },
+    {
+      "part": "rearLeft",
+      "center": [
+        0.8776508884735259,
+        0.933407555302095,
+        -1.1937543695732786
+      ],
+      "doorTrailingZ": -1.3737543695732786,
+      "offsetFromTrailingEdge": 0.17999999999999994,
+      "gripLength": 0.19,
+      "bowlDepth": 0.014,
+      "sourceStatus": "Photo calibrated; not factory measurements"
+    },
+    {
+      "part": "frontRight",
+      "center": [
+        -0.8649997148289014,
+        0.9102856059146226,
+        -0.08199999999999999
+      ],
+      "doorTrailingZ": -0.242,
+      "offsetFromTrailingEdge": 0.16,
+      "gripLength": 0.19,
+      "bowlDepth": 0.014,
+      "sourceStatus": "Photo calibrated; not factory measurements"
+    },
+    {
+      "part": "rearRight",
+      "center": [
+        -0.8776508884735259,
+        0.933407555302095,
+        -1.1937543695732786
+      ],
+      "doorTrailingZ": -1.3737543695732786,
+      "offsetFromTrailingEdge": 0.17999999999999994,
+      "gripLength": 0.19,
+      "bowlDepth": 0.014,
+      "sourceStatus": "Photo calibrated; not factory measurements"
+    }
+  ],
+  "frontGeometry": {
+    "plate_text": [
+      0,
+      0.493,
+      2.3125097893405195
+    ],
+    "depthBoundaryMaxStep": 3.518855673956267e-06,
+    "fogCenterX": 0.7720049472473058,
+    "fogRadius": 0.0209742773589767
+  },
+  "sectionLevels": [
+    0,
+    0.075,
+    0.24,
+    0.44,
+    0.68,
+    0.84,
+    0.95,
+    1
+  ],
+  "bodySections": [
+    [
+      -2.315,
+      [
+        -0.08,
+        -0.047,
+        -0.025,
+        -0.009,
+        -0.025,
+        -0.009,
+        -0.021,
+        -0.055
+      ]
+    ],
+    [
+      -2.12,
+      [
+        -0.08,
+        -0.047,
+        -0.025,
+        -0.009,
+        -0.025,
+        -0.009,
+        -0.021,
+        -0.055
+      ]
+    ],
+    [
+      -1.7,
+      [
+        -0.052,
+        -0.027,
+        -0.015,
+        -0.004,
+        0,
+        -0.01,
+        -0.023,
+        -0.034
+      ]
+    ],
+    [
+      -1.335,
+      [
+        -0.052,
+        -0.032,
+        -0.024,
+        -0.018,
+        -0.008,
+        -0.012,
+        -0.022,
+        -0.03
+      ]
+    ],
+    [
+      -0.88,
+      [
+        -0.047799999999999995,
+        -0.028999999999999998,
+        -0.0552,
+        -0.0402,
+        -0.0194,
+        -0.009600000000000001,
+        -0.021400000000000002,
+        -0.0408
+      ]
+    ],
+    [
+      -0.3,
+      [
+        -0.045,
+        -0.027,
+        -0.076,
+        -0.055,
+        -0.027,
+        -0.008,
+        -0.021,
+        -0.048
+      ]
+    ],
+    [
+      0.58,
+      [
+        -0.045,
+        -0.027,
+        -0.076,
+        -0.055,
+        -0.027,
+        -0.008,
+        -0.021,
+        -0.048
+      ]
+    ],
+    [
+      0.9,
+      [
+        -0.046,
+        -0.023,
+        -0.027,
+        -0.011,
+        -0.004,
+        -0.006,
+        -0.017,
+        -0.028
+      ]
+    ],
+    [
+      1.365,
+      [
+        -0.052,
+        -0.032,
+        -0.024,
+        -0.018,
+        -0.008,
+        -0.012,
+        -0.022,
+        -0.03
+      ]
+    ],
+    [
+      1.9,
+      [
+        -0.049,
+        -0.025,
+        -0.013,
+        -0.007,
+        -0.003,
+        -0.002,
+        -0.012,
+        -0.026
+      ]
+    ],
+    [
+      2.315,
+      [
+        -0.049,
+        -0.025,
+        -0.013,
+        -0.007,
+        -0.003,
+        -0.002,
+        -0.012,
+        -0.026
+      ]
+    ]
+  ],
+  "referenceStatus": "Official and Taiwan owner photographs inspected; product shape review pending",
+  "provenance": "Reconstructed from historical real-vehicle reference observation; exterior rights unverified"
+}
