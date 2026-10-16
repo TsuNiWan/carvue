@@ -18,6 +18,18 @@ X 向左、Y 向上、Z 向前，單位公尺。車身底部落在共同地面�
 
 ## 重建
 
-使用 Blender 4.5.14 LTS。工具不入庫，scripts/modeling/prepare-blender.mjs 可下載官方 Windows portable 並比對 SHA-256；解壓至 tools。執行方式見 README。每次改動先生成未壓縮 GLB，再使用 pack-model.mjs 無損壓縮；該腳本檢查頂點屬性、三角形方向、材質與節點一致。
+使用 Blender 4.5.14 LTS。工具不入庫，`node scripts/modeling/prepare-blender.mjs` 可下載官方 Windows portable 並比對 SHA-256；解壓至 tools。每次改動先生成未壓縮 GLB，再使用 pack-model.mjs 無損壓縮；該腳本檢查頂點屬性、三角形方向、材質與節點一致。
+
+以都會轎車為例（PowerShell 7）：
+
+```powershell
+& ./tools/blender-4.5.14-windows-x64/blender.exe --background --factory-startup --python-exit-code 1 --python scripts/modeling/build_sedan_01.py -- --export-only
+Copy-Item public/models/sedan-01/1.1.0/vehicle.glb assets/source/sedan-01/vehicle.raw.glb
+node scripts/modeling/pack-model.mjs assets/source/sedan-01/vehicle.raw.glb public/models/sedan-01/1.1.0/vehicle.glb
+```
+
+改版同步更新清單、manifest、GLB、預覽與驗證紀錄。匯出成功不代表視覺驗收通過。
+
+`scripts/modeling/audit-source.py` 檢查 Blender 圖片、外部連結與內嵌腳本並產生預覽 PNG；安裝 Python 的 Pillow 後執行 `scripts/verification/convert-images.py` 轉為 WebP。以 `node scripts/verification/capture-readme.mjs` 擷取網站，再執行轉檔腳本產生 README 圖片。
 
 四門與後廂的可見內部為展示用途的重建近似；細部結構不作實車精確性承諾。來源圖片與下載索引已清除，保留幾何程式與可編輯模型供後續修整。
