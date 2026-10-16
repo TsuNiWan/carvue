@@ -23,3 +23,4 @@ assets/source/*/*.blend1
 docs/evidence/*-raw/
 docs/images/*.png
 assets/source/*/*.packed.glb*
+.vscode/

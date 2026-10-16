@@ -5,7 +5,13 @@ test('五車互動連續 30 分鐘沒有例外、停止繪製或累積 GPU 資�
   test.skip(process.env.CARVUE_SOAK !== '1' || testInfo.project.name !== 'chrome-1920', '以獨立 test:soak 命令明確選擇 30 分鐘長測')
   test.setTimeout(32 * 60_000)
   const errors: string[] = []
+  const consoleErrors: string[] = []
+  const networkFailures: { url: string; error: string | null }[] = []
   page.on('pageerror', error => errors.push(error.message))
+  page.on('console', message => { if (message.type() === 'error') consoleErrors.push(message.text()) })
+  page.on('requestfailed', request => {
+    if (/\/(?:vehicle\.glb|manifest\.json)(?:\?|$)/.test(request.url())) networkFailures.push({ url: request.url(), error: request.failure()?.errorText ?? null })
+  })
   await openVehicle(page)
   const probe = page.getByTestId('renderer-diagnostics')
   const read = async () => ({
@@ -37,6 +43,7 @@ test('五車互動連續 30 分鐘沒有例外、停止繪製或累積 GPU 資�
   const start = Date.now()
   let previousFrames = 0
   let cycle = 0
+  let lastProgress = start
   const samples: ({ elapsedMs: number; cycle: number } & Awaited<ReturnType<typeof read>>)[] = []
   try {
     while (Date.now() - start < 30 * 60_000) {
@@ -60,11 +67,17 @@ test('五車互動連續 30 分鐘沒有例外、停止繪製或累積 GPU 資�
       expect(snapshot.geometries).toBe(baselines[model.id]!.geometries)
       expect(snapshot.textures).toBe(baselines[model.id]!.textures)
       expect(errors).toEqual([])
+      expect(networkFailures).toEqual([])
+      expect(consoleErrors).toEqual([])
       previousFrames = snapshot.frames
       cycle++
+      if (Date.now() - lastProgress >= 60_000) {
+        console.log(JSON.stringify({ elapsedMinutes: Math.floor((Date.now() - start) / 60_000), completedCycles: cycle, status: 'stable' }))
+        lastProgress = Date.now()
+      }
     }
   } finally {
-    await testInfo.attach('soak-30m.json', { body: JSON.stringify({ requestedDurationMs: 30 * 60_000, elapsedMs: Date.now() - start, startedAt, endedAt: new Date().toISOString(), browserVersion: browser.version(), host: hostEnvironment(), coldBaselines, baselines, samples, errors }, null, 2), contentType: 'application/json' })
+    await testInfo.attach('soak-30m.json', { body: JSON.stringify({ requestedDurationMs: 30 * 60_000, elapsedMs: Date.now() - start, startedAt, endedAt: new Date().toISOString(), browserVersion: browser.version(), host: hostEnvironment(), coldBaselines, baselines, samples, errors, consoleErrors, networkFailures }, null, 2), contentType: 'application/json' })
   }
   expect(Date.now() - start).toBeGreaterThanOrEqual(30 * 60_000)
   expect(samples.length).toBeGreaterThanOrEqual(100)
