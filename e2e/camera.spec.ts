@@ -11,11 +11,14 @@ test('預設視角動畫中按下並拖曳，滑鼠立即接管鏡頭', async ({
   await page.mouse.move(start.x, start.y)
   await page.mouse.down()
   await expect(page.getByRole('button', { name: '自由', exact: true })).toHaveAttribute('aria-pressed', 'true')
+  await page.waitForTimeout(500)
+  const before: number[] = JSON.parse((await page.getByTestId('renderer-diagnostics').getAttribute('data-camera'))!)
   await page.mouse.move(start.x + box.width * 0.16, start.y, { steps: 6 })
   await page.mouse.up()
   await page.waitForTimeout(500)
   const camera: number[] = JSON.parse((await page.getByTestId('renderer-diagnostics').getAttribute('data-camera'))!)
-  expect(Math.abs(camera[0]!)).toBeGreaterThan(0.3)
+  // Dragging may cross the X=0 plane; compare movement rather than an absolute axis.
+  expect(Math.hypot(...camera.map((value, index) => value - before[index]!))).toBeGreaterThan(0.3)
   await expect(page.getByRole('button', { name: '後方', exact: true })).toHaveAttribute('aria-pressed', 'false')
 })
 

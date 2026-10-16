@@ -56,6 +56,8 @@ export function hostEnvironment() {
 }
 
 export async function measureFrames(page: Page, durationMs: number) {
+  // The frame counter includes loading renders; interval samples begin at readiness.
+  await expect.poll(async () => JSON.parse((await page.getByTestId('renderer-diagnostics').getAttribute('data-frame-times')) ?? '[]').length).toBeGreaterThan(0)
   return page.evaluate(async requestedDurationMs => {
     const probe = document.querySelector<HTMLElement>('[data-testid="renderer-diagnostics"]')!
     const canvas = document.querySelector<HTMLCanvasElement>('canvas[aria-label="車輛 3D 場景"]')!
