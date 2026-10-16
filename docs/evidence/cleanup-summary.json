@@ -1,0 +1,9 @@
+{
+  "completedAt": "2026-10-16T14:38:44.8066039Z",
+  "groups": 24,
+  "files": 4189.0,
+  "bytes": 8527988908.0,
+  "scope": "Superseded manufacturer reference data, branded assets and historical generated outputs",
+  "boundaryCheck": "All targets resolved inside project before deletion",
+  "retained": "Application source and procedural geometry; verification scripts migrated to scripts/verification"
+}

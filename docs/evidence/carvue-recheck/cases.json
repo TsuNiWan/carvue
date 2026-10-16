@@ -1,0 +1,288 @@
+[
+  {
+    "testId": "46b3768d175a3aa7b8eb-bae4c17b225eab56b28f",
+    "title": "預設視角動畫中按下並拖曳，滑鼠立即接管鏡頭",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "camera.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 4529,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "46b3768d175a3aa7b8eb-2b8f953b48d5bc5d23f0",
+    "title": "預設視角動畫中按下並拖曳，滑鼠立即接管鏡頭",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "camera.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 4245,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-b25d727b2ca804937fba",
+    "title": "sedan-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-6dfab0bc12fec3113ce7",
+    "title": "suv-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-e22355fc06e619cb361a",
+    "title": "sedan-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-94959da3a75c3a79ed0c",
+    "title": "suv-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-70da6d10a12cc4703666",
+    "title": "sedan-03 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-e1b023a54fb99a6cd046",
+    "title": "sedan-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 31481,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-4f769d36fc664aaa476b",
+    "title": "suv-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 32534,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-a24c551fee0217d55104",
+    "title": "sedan-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 31966,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-f94614a72c5b81f9006e",
+    "title": "suv-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 31912,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-efb7da24aef7cef120fc",
+    "title": "sedan-03 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 32023,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-bbe00debd81a954f856a",
+    "title": "sedan-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 234,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-f79f9ba70443f5c02807",
+    "title": "suv-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 227,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-82b1aa25500a5729a032",
+    "title": "sedan-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 200,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-178582cca6e865b4ea1c",
+    "title": "suv-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 201,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-f04d0d5797bb125ec586",
+    "title": "sedan-03 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 201,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-0e425aced1a298b76a81",
+    "title": "sedan-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 32345,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-fac0b367323a77ffa93e",
+    "title": "suv-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 32833,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-43d961ad5c2dc8f544a2",
+    "title": "sedan-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 32799,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-04c39d566c6efa7f5b41",
+    "title": "suv-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 32588,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-98216a916359955e5cc8",
+    "title": "sedan-03 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 32826,
+    "outcome": "expected",
+    "ok": true
+  }
+]

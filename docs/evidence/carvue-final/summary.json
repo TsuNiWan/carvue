@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "total": 248,
+    "expected": 92,
+    "unexpected": 99,
+    "flaky": 0,
+    "skipped": 57,
+    "ok": false
+  },
+  "duration": 1247107.117,
+  "projectNames": [
+    "chrome-1280",
+    "chrome-1920",
+    "msedge-1280",
+    "msedge-1920"
+  ],
+  "jsonMeasurements": 48
+}

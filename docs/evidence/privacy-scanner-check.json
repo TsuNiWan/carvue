@@ -1,0 +1,60 @@
+{
+  "fixture": "Synthetic data in an ignored isolated repository; no real credentials used",
+  "cases": [
+    {
+      "mode": [
+        "staged"
+      ],
+      "expectedCategories": [
+        "Excluded release path",
+        "GitHub token",
+        "Unix home directory",
+        "Windows personal directory"
+      ],
+      "passed": true
+    },
+    {
+      "mode": [
+        "--all"
+      ],
+      "expectedCategories": [
+        "Excluded release path",
+        "GitHub token",
+        "Unix home directory",
+        "Windows personal directory"
+      ],
+      "passed": true
+    },
+    {
+      "mode": [
+        "--history"
+      ],
+      "expectedCategories": [
+        "Excluded release path",
+        "GitHub token",
+        "Unix home directory",
+        "Windows personal directory"
+      ],
+      "passed": true
+    },
+    {
+      "mode": [
+        "--all"
+      ],
+      "expectedCategories": [],
+      "passed": true
+    },
+    {
+      "mode": [
+        "--history"
+      ],
+      "expectedCategories": [
+        "Excluded release path",
+        "GitHub token",
+        "Unix home directory",
+        "Windows personal directory"
+      ],
+      "passed": true
+    }
+  ]
+}

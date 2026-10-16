@@ -1,0 +1,16 @@
+{
+  "node": "24.19.0",
+  "unitTests": {
+    "files": 6,
+    "passed": 87,
+    "failed": 0
+  },
+  "typecheck": "passed",
+  "productionBuild": "passed",
+  "assetContracts": 5,
+  "publicIdentityContract": "passed",
+  "rigReversalCases": 150,
+  "rigLightingCases": 10,
+  "rigSteeringCases": 30,
+  "note": "Browser, performance, soak, clean clone and deployment results are recorded separately."
+}

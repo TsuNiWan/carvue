@@ -1,0 +1,199 @@
+{
+  "baseline": {
+    "vehicle": "sedan-01",
+    "state": "ready",
+    "geometries": 98,
+    "textures": 4,
+    "frames": 343
+  },
+  "switches": [
+    {
+      "iteration": 1,
+      "requestedVehicle": "suv-01",
+      "vehicle": "suv-01",
+      "state": "ready",
+      "geometries": 81,
+      "textures": 4,
+      "frames": 392
+    },
+    {
+      "iteration": 2,
+      "requestedVehicle": "sedan-02",
+      "vehicle": "sedan-02",
+      "state": "ready",
+      "geometries": 88,
+      "textures": 4,
+      "frames": 447
+    },
+    {
+      "iteration": 3,
+      "requestedVehicle": "suv-02",
+      "vehicle": "suv-02",
+      "state": "ready",
+      "geometries": 96,
+      "textures": 4,
+      "frames": 495
+    },
+    {
+      "iteration": 4,
+      "requestedVehicle": "sedan-03",
+      "vehicle": "sedan-03",
+      "state": "ready",
+      "geometries": 104,
+      "textures": 4,
+      "frames": 558
+    },
+    {
+      "iteration": 5,
+      "requestedVehicle": "sedan-01",
+      "vehicle": "sedan-01",
+      "state": "ready",
+      "geometries": 98,
+      "textures": 4,
+      "frames": 606
+    },
+    {
+      "iteration": 6,
+      "requestedVehicle": "suv-01",
+      "vehicle": "suv-01",
+      "state": "ready",
+      "geometries": 81,
+      "textures": 4,
+      "frames": 695
+    },
+    {
+      "iteration": 7,
+      "requestedVehicle": "sedan-02",
+      "vehicle": "sedan-02",
+      "state": "ready",
+      "geometries": 88,
+      "textures": 4,
+      "frames": 724
+    },
+    {
+      "iteration": 8,
+      "requestedVehicle": "suv-02",
+      "vehicle": "suv-02",
+      "state": "ready",
+      "geometries": 96,
+      "textures": 4,
+      "frames": 770
+    },
+    {
+      "iteration": 9,
+      "requestedVehicle": "sedan-03",
+      "vehicle": "sedan-03",
+      "state": "ready",
+      "geometries": 104,
+      "textures": 4,
+      "frames": 828
+    },
+    {
+      "iteration": 10,
+      "requestedVehicle": "sedan-01",
+      "vehicle": "sedan-01",
+      "state": "ready",
+      "geometries": 98,
+      "textures": 4,
+      "frames": 889
+    },
+    {
+      "iteration": 11,
+      "requestedVehicle": "suv-01",
+      "vehicle": "suv-01",
+      "state": "ready",
+      "geometries": 81,
+      "textures": 4,
+      "frames": 983
+    },
+    {
+      "iteration": 12,
+      "requestedVehicle": "sedan-02",
+      "vehicle": "sedan-02",
+      "state": "ready",
+      "geometries": 88,
+      "textures": 4,
+      "frames": 1014
+    },
+    {
+      "iteration": 13,
+      "requestedVehicle": "suv-02",
+      "vehicle": "suv-02",
+      "state": "ready",
+      "geometries": 96,
+      "textures": 4,
+      "frames": 1063
+    },
+    {
+      "iteration": 14,
+      "requestedVehicle": "sedan-03",
+      "vehicle": "sedan-03",
+      "state": "ready",
+      "geometries": 104,
+      "textures": 4,
+      "frames": 1114
+    },
+    {
+      "iteration": 15,
+      "requestedVehicle": "sedan-01",
+      "vehicle": "sedan-01",
+      "state": "ready",
+      "geometries": 98,
+      "textures": 4,
+      "frames": 1170
+    },
+    {
+      "iteration": 16,
+      "requestedVehicle": "suv-01",
+      "vehicle": "suv-01",
+      "state": "ready",
+      "geometries": 81,
+      "textures": 4,
+      "frames": 1268
+    },
+    {
+      "iteration": 17,
+      "requestedVehicle": "sedan-02",
+      "vehicle": "sedan-02",
+      "state": "ready",
+      "geometries": 88,
+      "textures": 4,
+      "frames": 1295
+    },
+    {
+      "iteration": 18,
+      "requestedVehicle": "suv-02",
+      "vehicle": "suv-02",
+      "state": "ready",
+      "geometries": 96,
+      "textures": 4,
+      "frames": 1353
+    },
+    {
+      "iteration": 19,
+      "requestedVehicle": "sedan-03",
+      "vehicle": "sedan-03",
+      "state": "ready",
+      "geometries": 104,
+      "textures": 4,
+      "frames": 1412
+    },
+    {
+      "iteration": 20,
+      "requestedVehicle": "sedan-01",
+      "vehicle": "sedan-01",
+      "state": "ready",
+      "geometries": 98,
+      "textures": 4,
+      "frames": 1475
+    }
+  ],
+  "final": {
+    "vehicle": "sedan-01",
+    "state": "ready",
+    "geometries": 98,
+    "textures": 4,
+    "frames": 1475
+  },
+  "finalReadError": null
+}

@@ -1,0 +1,3226 @@
+[
+  {
+    "testId": "ca9246177367606c6c3b-f2a2621e7118dab556ea",
+    "title": "sedan-01 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-2fe07bb6f47c436bf761",
+    "title": "sedan-01 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-dfc2923e1d12f256fa38",
+    "title": "suv-01 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-a64a623601ceb7debbda",
+    "title": "suv-01 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-2a17310b198679af227c",
+    "title": "sedan-02 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-484e8e0143d40af08800",
+    "title": "sedan-02 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-b3ca8ab41f0260c44e36",
+    "title": "suv-02 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-2a139aa585e91d144eec",
+    "title": "suv-02 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-e3d584c6ba18ad8da783",
+    "title": "sedan-03 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-adedb53d91c86ae3a628",
+    "title": "sedan-03 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-066e5f855c43cf394aeb",
+    "title": "sedan-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-25ac0f6a3ff7572a0158",
+    "title": "suv-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-a4f2ff7d0c1a00cc0c04",
+    "title": "sedan-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-4f257fcbda16cbdf584b",
+    "title": "suv-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-11942bfc520eaa037964",
+    "title": "sedan-03 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-d9c70d745d8bc4d69b4a",
+    "title": "sedan-01 減少動態的預設視角及鍵盤旋轉會更新熱點投影與遮擋",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 114,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-afc009865a6b20f31709",
+    "title": "sedan-01 預編譯 pending 的 context-loss 會終止 Three 內部輪詢",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 131,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-83821107482c10cc3ffa",
+    "title": "sedan-01 預編譯 pending 的 unmount 會終止 Three 內部輪詢",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 131,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-d2fb13e9b8a990b691bc",
+    "title": "sedan-01 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-225346442539ee34904a",
+    "title": "sedan-01 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-261fe3286494a0591129",
+    "title": "suv-01 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-fd2cf00ac05ddbf10374",
+    "title": "suv-01 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-58f33d9c54b98cffb262",
+    "title": "sedan-02 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-3d03341a680f3394a960",
+    "title": "sedan-02 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-71ed79951d8ddc3221a6",
+    "title": "suv-02 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-527725f0b34daecdcea0",
+    "title": "suv-02 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-d8e046cb822b95abeb98",
+    "title": "sedan-03 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-2819855ea7e02a1a64b3",
+    "title": "sedan-03 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-54b30240cbd2478df0a2",
+    "title": "sedan-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-868e3e12d0e1378bc230",
+    "title": "suv-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-fef93d9cdf1c8933e944",
+    "title": "sedan-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-2055c4117208692e39b8",
+    "title": "suv-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-46407275ed614d04d849",
+    "title": "sedan-03 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-dd32721955fe23d67d92",
+    "title": "sedan-01 減少動態的預設視角及鍵盤旋轉會更新熱點投影與遮擋",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 114,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-384ebe8564b244983942",
+    "title": "sedan-01 預編譯 pending 的 context-loss 會終止 Three 內部輪詢",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 131,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-d0d4363e373dac7d0ad2",
+    "title": "sedan-01 預編譯 pending 的 unmount 會終止 Three 內部輪詢",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 131,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-0e9a060cf98e18955a53",
+    "title": "sedan-01 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 13901,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-8204cabb2183fafacecf",
+    "title": "sedan-01 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14065,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-ea6a5376302d84a6b17f",
+    "title": "suv-01 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14938,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-b6a0b98ce3f3e8f2938e",
+    "title": "suv-01 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14591,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-bce81d8afdb92d12a3bd",
+    "title": "sedan-02 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14319,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-f151586682e3d5a0dbdc",
+    "title": "sedan-02 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14076,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-593e45c35bf5d7ece87b",
+    "title": "suv-02 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14601,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-c06b65c7ba7650e2836a",
+    "title": "suv-02 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14158,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-b85b34449b798c2fcdd0",
+    "title": "sedan-03 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14724,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-76803fcceef62ea9fdee",
+    "title": "sedan-03 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14430,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-bbe00debd81a954f856a",
+    "title": "sedan-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 242,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-f79f9ba70443f5c02807",
+    "title": "suv-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 222,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-82b1aa25500a5729a032",
+    "title": "sedan-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 227,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-178582cca6e865b4ea1c",
+    "title": "suv-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 221,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-f04d0d5797bb125ec586",
+    "title": "sedan-03 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 233,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "ca9246177367606c6c3b-bd2a85a00796226d3f3d",
+    "title": "sedan-01 減少動態的預設視角及鍵盤旋轉會更新熱點投影與遮擋",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 114,
+      "column": 1
+    },
+    "duration": 2008,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-306fa467e6d4040358a5",
+    "title": "sedan-01 預編譯 pending 的 context-loss 會終止 Three 內部輪詢",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 131,
+      "column": 3
+    },
+    "duration": 1547,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-f83fd7183d0cb4c99c29",
+    "title": "sedan-01 預編譯 pending 的 unmount 會終止 Three 內部輪詢",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 131,
+      "column": 3
+    },
+    "duration": 1597,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-a7fa72f3c6a5faac0faf",
+    "title": "sedan-01 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14039,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-9792721b580a336b3c16",
+    "title": "sedan-01 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14270,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-ec8d2b904cf24e9566e4",
+    "title": "suv-01 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 15399,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-82e15890b87197149cf7",
+    "title": "suv-01 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14490,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-b9868a01c61ed284233e",
+    "title": "sedan-02 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14875,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-645d60bcdb5b030da2ef",
+    "title": "sedan-02 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14516,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-c2d4ecfe5c1ff167147f",
+    "title": "suv-02 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 15530,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-1abbdcbaeb70cc016890",
+    "title": "suv-02 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14673,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-8d9856bb1fd2c2d6652a",
+    "title": "sedan-03 no-preference 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 16140,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-1cff248263ba7a5966f3",
+    "title": "sedan-03 reduce 四門及後廂實際開關時長符合 1100／1400ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 48,
+      "column": 3
+    },
+    "duration": 14642,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-0e425aced1a298b76a81",
+    "title": "sedan-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 33395,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-fac0b367323a77ffa93e",
+    "title": "suv-01 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 33978,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-43d961ad5c2dc8f544a2",
+    "title": "sedan-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 33011,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-04c39d566c6efa7f5b41",
+    "title": "suv-02 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 33203,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-98216a916359955e5cc8",
+    "title": "sedan-03 持續滑鼠拖曳 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 75,
+      "column": 3
+    },
+    "duration": 32996,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-e1f7fb978326df4e1417",
+    "title": "sedan-01 減少動態的預設視角及鍵盤旋轉會更新熱點投影與遮擋",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 114,
+      "column": 1
+    },
+    "duration": 2776,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-6b64b498a8cba66ffebc",
+    "title": "sedan-01 預編譯 pending 的 context-loss 會終止 Three 內部輪詢",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 131,
+      "column": 3
+    },
+    "duration": 2073,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ca9246177367606c6c3b-8e10049af69ac9a7eef5",
+    "title": "sedan-01 預編譯 pending 的 unmount 會終止 Three 內部輪詢",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "runtime.spec.ts",
+      "line": 131,
+      "column": 3
+    },
+    "duration": 2007,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-7114268e4f9465398707",
+    "title": "總覽提供五車網址入口且不建立 3D 場景",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 1,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-19b7dd64976fcb909565",
+    "title": "直接車款網址可重新整理及返回總覽",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 11,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-0c39e1c7422f5931e689",
+    "title": "未知車款提供明確提示與總覽入口",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 25,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-de70145c953bb1a95eef",
+    "title": "窄螢幕保留車款資訊與桌機提示，不建立 WebGL",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 33,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-f23841573bd09cab9db8",
+    "title": "模型載入失敗時禁用車控，重新載入可恢復正確模型",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 44,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-dd4aef54900a79d57cd9",
+    "title": "延遲的舊模型請求不會覆蓋快速切換後的車款",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 66,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-203d8788361da5b012cf",
+    "title": "車門及後廂顯示中間狀態，動畫中反向會回到關閉",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 101,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-4a517c405ea141beb263",
+    "title": "頭尾燈具備中間亮度，熱點與面板狀態一致",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 122,
+      "column": 1
+    },
+    "duration": 4,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-c862f49d1d7e7577f8b0",
+    "title": "重設視角保留車控，重設展示保留情境種類並恢復全部狀態",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 158,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-bd22d454b0ba47badeeb",
+    "title": "總覽提供五車網址入口且不建立 3D 場景",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 0,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-af7e9a1ffc44cf9a0eda",
+    "title": "直接車款網址可重新整理及返回總覽",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 11,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-352d0e61a363a9735028",
+    "title": "未知車款提供明確提示與總覽入口",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 25,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-743726eea58c1427b816",
+    "title": "窄螢幕保留車款資訊與桌機提示，不建立 WebGL",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 33,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-4749186bd9d8b0da5451",
+    "title": "模型載入失敗時禁用車控，重新載入可恢復正確模型",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 44,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-021eae13a810de69470c",
+    "title": "延遲的舊模型請求不會覆蓋快速切換後的車款",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 66,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-00e0aa103931467abe12",
+    "title": "車門及後廂顯示中間狀態，動畫中反向會回到關閉",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 101,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-851e937c1645c2437227",
+    "title": "頭尾燈具備中間亮度，熱點與面板狀態一致",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 122,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-2e63f1fd5f89b8a598cb",
+    "title": "重設視角保留車控，重設展示保留情境種類並恢復全部狀態",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 158,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-6f21f8c056043d630212",
+    "title": "總覽提供五車網址入口且不建立 3D 場景",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 649,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-ae29d9d98302e04dbc11",
+    "title": "直接車款網址可重新整理及返回總覽",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 11,
+      "column": 1
+    },
+    "duration": 3301,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-37e516f123806ba409e2",
+    "title": "未知車款提供明確提示與總覽入口",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 25,
+      "column": 1
+    },
+    "duration": 778,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-10164c3b33c0044fc7e5",
+    "title": "窄螢幕保留車款資訊與桌機提示，不建立 WebGL",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 33,
+      "column": 1
+    },
+    "duration": 485,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-f815d447b12aab07b7b5",
+    "title": "模型載入失敗時禁用車控，重新載入可恢復正確模型",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 44,
+      "column": 1
+    },
+    "duration": 1638,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-a9df80ca393bfc345bf3",
+    "title": "延遲的舊模型請求不會覆蓋快速切換後的車款",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 66,
+      "column": 1
+    },
+    "duration": 2884,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-8e0d32faa1505691eda6",
+    "title": "車門及後廂顯示中間狀態，動畫中反向會回到關閉",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 101,
+      "column": 1
+    },
+    "duration": 2711,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-92a08431190340485fcf",
+    "title": "頭尾燈具備中間亮度，熱點與面板狀態一致",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 122,
+      "column": 1
+    },
+    "duration": 4767,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-db5b10b364dd66c2095d",
+    "title": "重設視角保留車控，重設展示保留情境種類並恢復全部狀態",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 158,
+      "column": 1
+    },
+    "duration": 3589,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-3d12d2f4541c79498883",
+    "title": "總覽提供五車網址入口且不建立 3D 場景",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 1340,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-7f84d7f81a8dd4d35c30",
+    "title": "直接車款網址可重新整理及返回總覽",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 11,
+      "column": 1
+    },
+    "duration": 6404,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-3f70bca78f4b10b8a4f1",
+    "title": "未知車款提供明確提示與總覽入口",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 25,
+      "column": 1
+    },
+    "duration": 785,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-fd8cd25f5fc3a24719dc",
+    "title": "窄螢幕保留車款資訊與桌機提示，不建立 WebGL",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 33,
+      "column": 1
+    },
+    "duration": 509,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-b120d29e48caeeb5e9a8",
+    "title": "模型載入失敗時禁用車控，重新載入可恢復正確模型",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 44,
+      "column": 1
+    },
+    "duration": 1742,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-4e11e4b424abbe5f94bb",
+    "title": "延遲的舊模型請求不會覆蓋快速切換後的車款",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 66,
+      "column": 1
+    },
+    "duration": 3110,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-8d798614d099db6a509d",
+    "title": "車門及後廂顯示中間狀態，動畫中反向會回到關閉",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 101,
+      "column": 1
+    },
+    "duration": 2460,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-618165c02d3f3cfbd7f5",
+    "title": "頭尾燈具備中間亮度，熱點與面板狀態一致",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 122,
+      "column": 1
+    },
+    "duration": 4981,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "2fa8ab87beca8e7f39ce-3aff711834a602b2b10b",
+    "title": "重設視角保留車控，重設展示保留情境種類並恢復全部狀態",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "product.spec.ts",
+      "line": 158,
+      "column": 1
+    },
+    "duration": 3490,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-6d60f9c395f84bb73614",
+    "title": "sedan-01 同版 WebGL 造型與開合審查證據",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-208514f20634f6f22edb",
+    "title": "suv-01 同版 WebGL 造型與開合審查證據",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 4,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-28c8cc662938f72ef8c4",
+    "title": "sedan-02 同版 WebGL 造型與開合審查證據",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 4,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-15554c0c78d58da5ed72",
+    "title": "suv-02 同版 WebGL 造型與開合審查證據",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-dcb99a2ff5e98ed5cacc",
+    "title": "sedan-03 同版 WebGL 造型與開合審查證據",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-967979dce43f9d1ad9b6",
+    "title": "sedan-01 同版 WebGL 造型與開合審查證據",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-d0d43ef32faf9195b879",
+    "title": "suv-01 同版 WebGL 造型與開合審查證據",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-08b3c5d54aa15a472ce7",
+    "title": "sedan-02 同版 WebGL 造型與開合審查證據",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-9b0ff1669afcc73ac9bf",
+    "title": "suv-02 同版 WebGL 造型與開合審查證據",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 5,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-e4146f0d40b14762c054",
+    "title": "sedan-03 同版 WebGL 造型與開合審查證據",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-fa5e89a4236433951e08",
+    "title": "sedan-01 同版 WebGL 造型與開合審查證據",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 262,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-6bfe8528c277489ed3a1",
+    "title": "suv-01 同版 WebGL 造型與開合審查證據",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 244,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-1a0067d8d1f39b818d51",
+    "title": "sedan-02 同版 WebGL 造型與開合審查證據",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 254,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-7590f9c0309d7f677e4c",
+    "title": "suv-02 同版 WebGL 造型與開合審查證據",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 255,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-0dcc97ce61b1517b5317",
+    "title": "sedan-03 同版 WebGL 造型與開合審查證據",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 262,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-8ba4bc098b1671b745e2",
+    "title": "sedan-01 同版 WebGL 造型與開合審查證據",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 29761,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-8da2f6cb47ffe78a9932",
+    "title": "suv-01 同版 WebGL 造型與開合審查證據",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 30456,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-de81efd5e1611c7167ab",
+    "title": "sedan-02 同版 WebGL 造型與開合審查證據",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 29215,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-04d7b981de4011065822",
+    "title": "suv-02 同版 WebGL 造型與開合審查證據",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 30351,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "4a42164fc3ec5bfdc2b2-3e2f8ad59d1196e436e2",
+    "title": "sedan-03 同版 WebGL 造型與開合審查證據",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "model-review.spec.ts",
+      "line": 7,
+      "column": 29
+    },
+    "duration": 30729,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-3032696cb2f572752476",
+    "title": "五車皆有實際開合鉸鏈，切車會清除先前操作",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 8,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-f0999f23d1f87dba3a47",
+    "title": "照明與方向燈驅動燈組，前輪雙向轉動且門動畫可反向",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 34,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-852dfb915ad54e691b13",
+    "title": "三情境警示可重現，播放暫停與前後拖曳一致",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 75,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-c038f4545200954dcda6",
+    "title": "桌機布局不溢出，滑鼠、視角按鈕與鍵盤實際改變攝影機",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 129,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-8d25181e255b319ca841",
+    "title": "連續切車 20 次後 GPU 資源數量返回基準且仍持續繪製",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 168,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-13f5ca6f363db71af9c8",
+    "title": "五車皆有實際開合鉸鏈，切車會清除先前操作",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 8,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-c33d3da2b8d5eebcf94c",
+    "title": "照明與方向燈驅動燈組，前輪雙向轉動且門動畫可反向",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 34,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-485a982f47bcc8832097",
+    "title": "三情境警示可重現，播放暫停與前後拖曳一致",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 75,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-1f43c22f010abfe64a4a",
+    "title": "桌機布局不溢出，滑鼠、視角按鈕與鍵盤實際改變攝影機",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 129,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-0acec5fa32fa06971f1e",
+    "title": "連續切車 20 次後 GPU 資源數量返回基準且仍持續繪製",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 168,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-cd54b6f4c5896029c8db",
+    "title": "五車皆有實際開合鉸鏈，切車會清除先前操作",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 8,
+      "column": 1
+    },
+    "duration": 16579,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-f4fd69b65e7a735d7028",
+    "title": "照明與方向燈驅動燈組，前輪雙向轉動且門動畫可反向",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 34,
+      "column": 1
+    },
+    "duration": 6368,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-868c350f6ebe0b540961",
+    "title": "三情境警示可重現，播放暫停與前後拖曳一致",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 75,
+      "column": 1
+    },
+    "duration": 4389,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-002a1e6346ed859f3621",
+    "title": "桌機布局不溢出，滑鼠、視角按鈕與鍵盤實際改變攝影機",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 129,
+      "column": 1
+    },
+    "duration": 5066,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-b2397ed6465470efef29",
+    "title": "連續切車 20 次後 GPU 資源數量返回基準且仍持續繪製",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 168,
+      "column": 1
+    },
+    "duration": 21217,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-ba1e31d9c72e5e5ce4df",
+    "title": "五車皆有實際開合鉸鏈，切車會清除先前操作",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 8,
+      "column": 1
+    },
+    "duration": 18964,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-ad3b8522a8b92d3516d1",
+    "title": "照明與方向燈驅動燈組，前輪雙向轉動且門動畫可反向",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 34,
+      "column": 1
+    },
+    "duration": 6567,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-9e9ffefc4790f39a317a",
+    "title": "三情境警示可重現，播放暫停與前後拖曳一致",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 75,
+      "column": 1
+    },
+    "duration": 5055,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-8ec88cf40ffb453a13dd",
+    "title": "桌機布局不溢出，滑鼠、視角按鈕與鍵盤實際改變攝影機",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 129,
+      "column": 1
+    },
+    "duration": 5014,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ad6ce5ddab067c7596e2-8e9065addd039ce42e23",
+    "title": "連續切車 20 次後 GPU 資源數量返回基準且仍持續繪製",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "showroom.spec.ts",
+      "line": 168,
+      "column": 1
+    },
+    "duration": 20554,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-d07008486d88166310f7",
+    "title": "no-preference 拖曳及視角移動隱藏熱點，停止後恢復",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 5,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-6e90024faca4995ba2d4",
+    "title": "no-preference 只隱藏活動車門熱點並保留面板反向及焦點",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 31,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-885e1d36cab00ad73220",
+    "title": "reduce 拖曳及視角移動隱藏熱點，停止後恢復",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 5,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-39d0b020b4338ce64e07",
+    "title": "reduce 只隱藏活動車門熱點並保留面板反向及焦點",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 31,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-4617d7916e0ab0e1423b",
+    "title": "no-preference 拖曳及視角移動隱藏熱點，停止後恢復",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 5,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-1bf1c1c27158db3fa090",
+    "title": "no-preference 只隱藏活動車門熱點並保留面板反向及焦點",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 31,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-faa99362ad43a879cef8",
+    "title": "reduce 拖曳及視角移動隱藏熱點，停止後恢復",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 5,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-6dbf2ebe8c9ce3e3eada",
+    "title": "reduce 只隱藏活動車門熱點並保留面板反向及焦點",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 31,
+      "column": 3
+    },
+    "duration": 5,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-34c93cac26eafed881a8",
+    "title": "no-preference 拖曳及視角移動隱藏熱點，停止後恢復",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 5,
+      "column": 3
+    },
+    "duration": 5544,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-7769e88684690910c410",
+    "title": "no-preference 只隱藏活動車門熱點並保留面板反向及焦點",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 31,
+      "column": 3
+    },
+    "duration": 4877,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-611f8d333558304bdf5a",
+    "title": "reduce 拖曳及視角移動隱藏熱點，停止後恢復",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 5,
+      "column": 3
+    },
+    "duration": 3617,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-3236d79b18887e7a2896",
+    "title": "reduce 只隱藏活動車門熱點並保留面板反向及焦點",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 31,
+      "column": 3
+    },
+    "duration": 4873,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-2f62f70ff6091a70c69c",
+    "title": "no-preference 拖曳及視角移動隱藏熱點，停止後恢復",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 5,
+      "column": 3
+    },
+    "duration": 4849,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-2406fe6cc6eadcad14b2",
+    "title": "no-preference 只隱藏活動車門熱點並保留面板反向及焦點",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 31,
+      "column": 3
+    },
+    "duration": 4943,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-54fb1a1cde01c7a59913",
+    "title": "reduce 拖曳及視角移動隱藏熱點，停止後恢復",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 5,
+      "column": 3
+    },
+    "duration": 3209,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "ef538ff67f5d953c261c-b3b2b87b4f470738537f",
+    "title": "reduce 只隱藏活動車門熱點並保留面板反向及焦點",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "hotspot-visibility.spec.ts",
+      "line": 31,
+      "column": 3
+    },
+    "duration": 4719,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-5cda5c3d37741d26de41",
+    "title": "WebGL 初始化失敗時提供可讀提示，切車與切情境不產生未處理例外",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 10,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-44cf4c28d8cfdceb8e5f",
+    "title": "WebGL context 遺失後繪製及情境停止，visibility 事件不會重新啟動",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 41,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-45139927c9daa1741eed",
+    "title": "減少動態偏好下車門仍完成開合，視角按鈕與鍵盤仍可使用",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 79,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-d15d57bc0effdfcf0b3f",
+    "title": "WebGL 初始化失敗時提供可讀提示，切車與切情境不產生未處理例外",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 10,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-e1db0511c15cbc9af0e0",
+    "title": "WebGL context 遺失後繪製及情境停止，visibility 事件不會重新啟動",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 41,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-b7c22749bdaeff8f77fd",
+    "title": "減少動態偏好下車門仍完成開合，視角按鈕與鍵盤仍可使用",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 79,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-10f99656a3e3eab969ed",
+    "title": "WebGL 初始化失敗時提供可讀提示，切車與切情境不產生未處理例外",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 10,
+      "column": 1
+    },
+    "duration": 1154,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-28081762700c4ea19871",
+    "title": "WebGL context 遺失後繪製及情境停止，visibility 事件不會重新啟動",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 41,
+      "column": 1
+    },
+    "duration": 3707,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-a015d73a9c0881fe4945",
+    "title": "減少動態偏好下車門仍完成開合，視角按鈕與鍵盤仍可使用",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 79,
+      "column": 1
+    },
+    "duration": 5544,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-1a3c974500e4f5a3d7dd",
+    "title": "WebGL 初始化失敗時提供可讀提示，切車與切情境不產生未處理例外",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 10,
+      "column": 1
+    },
+    "duration": 1164,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-9f099bd6d0afc9cc5e55",
+    "title": "WebGL context 遺失後繪製及情境停止，visibility 事件不會重新啟動",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 41,
+      "column": 1
+    },
+    "duration": 3971,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "c1cdccb29e536012e9c2-6283f60fad1b0eaa79fd",
+    "title": "減少動態偏好下車門仍完成開合，視角按鈕與鍵盤仍可使用",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "resilience.spec.ts",
+      "line": 79,
+      "column": 1
+    },
+    "duration": 5497,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "46b3768d175a3aa7b8eb-bae4c17b225eab56b28f",
+    "title": "預設視角動畫中按下並拖曳，滑鼠立即接管鏡頭",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "camera.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 5916,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "46b3768d175a3aa7b8eb-087645e07d046d95a158",
+    "title": "預設視角動畫中按下並拖曳，滑鼠立即接管鏡頭",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "camera.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "46b3768d175a3aa7b8eb-13e9c50f5961ce4b4f3d",
+    "title": "頁面隱藏時暫停情境與繪製，恢復後情境保持暫停",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "camera.spec.ts",
+      "line": 22,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "46b3768d175a3aa7b8eb-36bc813ea84bce6a0518",
+    "title": "預設視角動畫中按下並拖曳，滑鼠立即接管鏡頭",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "camera.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 4,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "46b3768d175a3aa7b8eb-d9392567cc8acba834ae",
+    "title": "頁面隱藏時暫停情境與繪製，恢復後情境保持暫停",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "camera.spec.ts",
+      "line": 22,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "46b3768d175a3aa7b8eb-840b97f5e24a531e46d1",
+    "title": "頁面隱藏時暫停情境與繪製，恢復後情境保持暫停",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "camera.spec.ts",
+      "line": 22,
+      "column": 1
+    },
+    "duration": 5790,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "46b3768d175a3aa7b8eb-2b8f953b48d5bc5d23f0",
+    "title": "預設視角動畫中按下並拖曳，滑鼠立即接管鏡頭",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "camera.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 4706,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "46b3768d175a3aa7b8eb-cb29d9beb0776ec8abc2",
+    "title": "頁面隱藏時暫停情境與繪製，恢復後情境保持暫停",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "camera.spec.ts",
+      "line": 22,
+      "column": 1
+    },
+    "duration": 3298,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-4f769d36fc664aaa476b",
+    "title": "suv-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 33804,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-a24c551fee0217d55104",
+    "title": "sedan-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 33288,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-f94614a72c5b81f9006e",
+    "title": "suv-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 33468,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-efb7da24aef7cef120fc",
+    "title": "sedan-03 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 33855,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-ae992e5aff4d1c08cfe7",
+    "title": "sedan-01 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-c04ef902e628e0746bb6",
+    "title": "sedan-01 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-b25d727b2ca804937fba",
+    "title": "sedan-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-001b9ecec88e27dd44f6",
+    "title": "suv-01 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-94d7e6893aee8438ce05",
+    "title": "suv-01 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-6dfab0bc12fec3113ce7",
+    "title": "suv-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-dd6ace22b54a3a9b2600",
+    "title": "sedan-02 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 2,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-f8e0858f50b0fcd744b2",
+    "title": "sedan-02 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-e22355fc06e619cb361a",
+    "title": "sedan-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-86f33d96f1f08575a616",
+    "title": "suv-02 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-604e352819cf173e3ae9",
+    "title": "suv-02 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-94959da3a75c3a79ed0c",
+    "title": "suv-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-6311b1edc54ed9bbae82",
+    "title": "sedan-03 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-48c142e0b8d26094c810",
+    "title": "sedan-03 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-70da6d10a12cc4703666",
+    "title": "sedan-03 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-feaef543e15e4ad7a04a",
+    "title": "sedan-01 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 61,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-49b7faa7ef6e5188fd66",
+    "title": "sedan-01 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 5348,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-e1b023a54fb99a6cd046",
+    "title": "sedan-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 31783,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-6aa48a23f81174327d51",
+    "title": "suv-01 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 101,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-9fe9a5822874a698a801",
+    "title": "suv-01 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 7837,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-58f77b237b97d9b679c2",
+    "title": "sedan-02 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 77,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-5b61fa455a57294f029e",
+    "title": "sedan-02 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 6114,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-0aa27593b7c5f5c2f847",
+    "title": "suv-02 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 94,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-6dda829597aea733f5da",
+    "title": "suv-02 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 7072,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-b99579430cb923d469e6",
+    "title": "sedan-03 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 85,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-f3da5b25f0558a9b6433",
+    "title": "sedan-03 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 7240,
+    "outcome": "expected",
+    "ok": true
+  },
+  {
+    "testId": "b15d6361b2fc38288977-f3dab3c0bcd433b4f5fc",
+    "title": "sedan-01 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 4,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-8a132697f770d2a38e03",
+    "title": "sedan-01 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-84697d19688218a49846",
+    "title": "sedan-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-b9957fb52644ecf5144b",
+    "title": "suv-01 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-36e4a1961d67f6bb8e68",
+    "title": "suv-01 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-bdc1e7277a994c087bc1",
+    "title": "suv-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-38a7a252ad408f4d3e64",
+    "title": "sedan-02 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-33b350a015e0015d35b0",
+    "title": "sedan-02 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-aa5980202fc660084b12",
+    "title": "sedan-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-c5d386ab35aba756b411",
+    "title": "suv-02 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-0c51ac5ad6a6d1bba6b3",
+    "title": "suv-02 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-193b954dea3b09f1597c",
+    "title": "suv-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-a6c8299e86f313b97f53",
+    "title": "sedan-03 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-7a8f172303852c104974",
+    "title": "sedan-03 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-274da552dbb56b32aae0",
+    "title": "sedan-03 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-4f66774d15d54b0ad797",
+    "title": "sedan-01 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 3,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-03fd7e18e7b6227f2ea7",
+    "title": "sedan-01 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-34057cb7b87f1b40fffe",
+    "title": "sedan-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-7e17f9354d56630566dd",
+    "title": "suv-01 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-8ffab382f633e4aab382",
+    "title": "suv-01 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-00a34c4ea9747d1e8b18",
+    "title": "suv-01 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-1a1fadaac1a650d85cff",
+    "title": "sedan-02 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-1b33d91c75690cd3cb40",
+    "title": "sedan-02 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-49b4d1105ef60f8f3802",
+    "title": "sedan-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 1,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-2ab8cea3b087fddaa7b4",
+    "title": "suv-02 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-c864e8b7691866bdb295",
+    "title": "suv-02 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-b578cd8127a679e0aa5f",
+    "title": "suv-02 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-0a99890d9f7ca6cee970",
+    "title": "sedan-03 模型及外部相依資源合計不超過 12 MiB",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 10,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-d9aff70b602f0db1a8d5",
+    "title": "sedan-03 25 Mbps／80ms 冷載至可操作首幀不超過 8 秒",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 35,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "b15d6361b2fc38288977-23cc81e871f29691d7da",
+    "title": "sedan-03 連續互動 30 秒至少 45 FPS，原始幀間隔 p95 不超過 50ms",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "performance.spec.ts",
+      "line": 87,
+      "column": 3
+    },
+    "duration": 0,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "c6beb51bfea44d74f96f-90f8fb763b703cc21ab5",
+    "title": "五車互動連續 30 分鐘沒有例外、停止繪製或累積 GPU 資源",
+    "projectName": "msedge-1280",
+    "location": {
+      "file": "soak.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 2,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "c6beb51bfea44d74f96f-736e64fc17f3242409b6",
+    "title": "五車互動連續 30 分鐘沒有例外、停止繪製或累積 GPU 資源",
+    "projectName": "msedge-1920",
+    "location": {
+      "file": "soak.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 3,
+    "outcome": "unexpected",
+    "ok": false
+  },
+  {
+    "testId": "c6beb51bfea44d74f96f-7e244ac7b9d7b05332ce",
+    "title": "五車互動連續 30 分鐘沒有例外、停止繪製或累積 GPU 資源",
+    "projectName": "chrome-1280",
+    "location": {
+      "file": "soak.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 264,
+    "outcome": "skipped",
+    "ok": false
+  },
+  {
+    "testId": "c6beb51bfea44d74f96f-b358da041d2a40050365",
+    "title": "五車互動連續 30 分鐘沒有例外、停止繪製或累積 GPU 資源",
+    "projectName": "chrome-1920",
+    "location": {
+      "file": "soak.spec.ts",
+      "line": 4,
+      "column": 1
+    },
+    "duration": 250,
+    "outcome": "skipped",
+    "ok": false
+  }
+]

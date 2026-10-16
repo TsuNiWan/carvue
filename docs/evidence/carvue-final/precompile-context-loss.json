@@ -1,0 +1,13 @@
+{
+  "interruption": "context-loss",
+  "settled": {
+    "active": 0,
+    "scheduled": 18,
+    "completions": 522
+  },
+  "afterWait": {
+    "active": 0,
+    "scheduled": 18,
+    "completions": 522
+  }
+}

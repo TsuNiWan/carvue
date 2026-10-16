@@ -1,0 +1,554 @@
+{
+  "recordedAt": "2026-10-16T15:43:55.998Z",
+  "phase": "after",
+  "hashes": {
+    "assets/source/sedan-01/build-report.json": {
+      "bytes": 4273,
+      "sha256": "74604a1776a1bb6f94ad06b8022d79e102357e9835442f20d54fcf4cf09c97fe"
+    },
+    "assets/source/sedan-01/compression-report.json": {
+      "bytes": 696,
+      "sha256": "d5c354ecd76a1f4dca57618520738b4c4c520aa3708b28ebcb8beadcae528d9a"
+    },
+    "assets/source/sedan-01/vehicle.blend": {
+      "bytes": 22745628,
+      "sha256": "31ceacf4b6d89763d85fee511e281c165f3086729dfec260096667ae438c367d"
+    },
+    "assets/source/sedan-01/vehicle.raw.glb": {
+      "bytes": 8800096,
+      "sha256": "4c73e368bc73cecd6987b4c11ccd1683b009de96ab64d157f0f63b0bcd220a11"
+    },
+    "assets/source/sedan-02/build-report.json": {
+      "bytes": 708530,
+      "sha256": "2b251000218142e489f12343b6062fde7265c2d5e1fd70954d061459b2270fb4"
+    },
+    "assets/source/sedan-02/compression-report.json": {
+      "bytes": 696,
+      "sha256": "3ff615aa1228f3848ef225568ef1c4675748cbb22dca6b4c05f9087518bd0a07"
+    },
+    "assets/source/sedan-02/vehicle.blend": {
+      "bytes": 25957862,
+      "sha256": "6c1555a44aeb9119672776cfcbfee5bac8e837f499a5eadfd2aadc1bf9dd4925"
+    },
+    "assets/source/sedan-02/vehicle.raw.glb": {
+      "bytes": 9810740,
+      "sha256": "c07e07d6750150a9f0c3ce40cf9f0bae7d012e90d7715ef1a04c41d4d55411a4"
+    },
+    "assets/source/sedan-03/build-report.json": {
+      "bytes": 715,
+      "sha256": "5c61b9ab7d937c0561db9947326409b1ac74b54dc6213a0d421bd14f9ba7f360"
+    },
+    "assets/source/sedan-03/compression-report.json": {
+      "bytes": 697,
+      "sha256": "7de2cc117f8a119ff10072b506c9ac38f87118c01c59b22bebb09bac29ef8793"
+    },
+    "assets/source/sedan-03/vehicle.blend": {
+      "bytes": 33798342,
+      "sha256": "f92d7ab5f996b0fbed2026328a01b55fd004f385feb776c8b45094529b0a5722"
+    },
+    "assets/source/sedan-03/vehicle.raw.glb": {
+      "bytes": 14269216,
+      "sha256": "6c21d4d8098f21515a6cbd2165aa9cb3e98282bb7b75b851c2fba06850453703"
+    },
+    "assets/source/suv-01/build-report.json": {
+      "bytes": 720,
+      "sha256": "7d61ce9e043a10207bea24d51bba8062eb39c939175ddc46bb0335ecf3ad62b6"
+    },
+    "assets/source/suv-01/compression-report.json": {
+      "bytes": 695,
+      "sha256": "d39e801c6a974f7990dc91dddc264b9789c0ec3e40c7733e7c42778358a35a38"
+    },
+    "assets/source/suv-01/vehicle.blend": {
+      "bytes": 50948457,
+      "sha256": "87fad7cac082fe0c996868c15ac23bb93bb5c9dd6d4be467f115b12c06d77fab"
+    },
+    "assets/source/suv-01/vehicle.raw.glb": {
+      "bytes": 21036032,
+      "sha256": "1046d55bf9eeffce0393d19a2fcce329dea6a3465a1f38981cae1cdcd038337f"
+    },
+    "assets/source/suv-02/build-report.json": {
+      "bytes": 1271,
+      "sha256": "95072d3b7c4b4a2b52a9468556f226ce28517e170a19aabd7302beccdbfebe44"
+    },
+    "assets/source/suv-02/compression-report.json": {
+      "bytes": 693,
+      "sha256": "b58d517e69e5e6def67b431a1682ce107204915b691acf7b32394a3565de5abe"
+    },
+    "assets/source/suv-02/vehicle.blend": {
+      "bytes": 35325498,
+      "sha256": "89262c02a7b183a449a97b93f82a80cba4caca5bed8928fe671cb1a2ebf255f5"
+    },
+    "assets/source/suv-02/vehicle.raw.glb": {
+      "bytes": 12580036,
+      "sha256": "ed69c1373a6ec9b4c4f47ce82518f951af7a252032931efe4544c0c720306f46"
+    },
+    "e2e/camera.spec.ts": {
+      "bytes": 2829,
+      "sha256": "bcfeedfb9bf145a4e7b44ac4b383a72d182bf4396628150b77de8037b3cdbe54"
+    },
+    "e2e/helpers.ts": {
+      "bytes": 5506,
+      "sha256": "bb9b9725eb8bd9a8180f4abe30352aef2e34050fef656a4c9dcaea9deeccc95b"
+    },
+    "e2e/hotspot-visibility.spec.ts": {
+      "bytes": 3397,
+      "sha256": "2199c81480d258d5f2fca3247bd434ca461ae7420bf3e394e9f3f904e0600678"
+    },
+    "e2e/model-review.spec.ts": {
+      "bytes": 4417,
+      "sha256": "3e0225232b84055ade6ebb8dc2f8f16d6ed8164da89452a5a79975f7341ca1d9"
+    },
+    "e2e/performance.spec.ts": {
+      "bytes": 8991,
+      "sha256": "ca8c3fa628173f51156856616fb51de909c2f8de9907c9882b28e3278fc8404b"
+    },
+    "e2e/product.spec.ts": {
+      "bytes": 10987,
+      "sha256": "244d8e3dde391ac53cd41c7ec949cf283b34e75ef4e111aa0e0c10db0c45cff4"
+    },
+    "e2e/resilience.spec.ts": {
+      "bytes": 6278,
+      "sha256": "37da0772560f1958898642c55e6f525f4c6167009814b750c50d5e6c1fbb3bf6"
+    },
+    "e2e/run-soak.mjs": {
+      "bytes": 529,
+      "sha256": "74ca7624524a0358c20c10160b96a2aed9c0cc56c24f0658f96d75f63a8532cf"
+    },
+    "e2e/runtime.spec.ts": {
+      "bytes": 10601,
+      "sha256": "7c3a8275f2f0cdb48f183bdf686105761d4a285daa990a181965ab6315ea8261"
+    },
+    "e2e/showroom.spec.ts": {
+      "bytes": 12575,
+      "sha256": "5d8b92ed532d883df6c379f79866f4f39ee802b2276f4305d766a11dd9ccfb64"
+    },
+    "e2e/soak.spec.ts": {
+      "bytes": 4050,
+      "sha256": "d124e7adb4f5b1389dcb23e0ff754e456fc3c33f3f840f04d421e3367fc50258"
+    },
+    "index.html": {
+      "bytes": 582,
+      "sha256": "003b1b5d22db47620082ee88af343f8e4c9cbf30519a2e8cf81e83f1a9ccf7a3"
+    },
+    "package-lock.json": {
+      "bytes": 57942,
+      "sha256": "886360510776577815752d70b89d1e61f81cc40c5c463ce181052dc2e17f998f"
+    },
+    "package.json": {
+      "bytes": 1226,
+      "sha256": "ef5d7b10def211083d385a4425d12c0e6d1105ad0d8ee06ca93925087f3493b0"
+    },
+    "playwright.config.ts": {
+      "bytes": 819,
+      "sha256": "9cb9635a3192a8cea1d5fcf8afb142d76bf86db9171f865ec2bc182238c45a3d"
+    },
+    "public/models/sedan-01/1.1.0/manifest.json": {
+      "bytes": 2838,
+      "sha256": "3ab17fc04ed175f30f94d006957e50172086c0e64452c749fe86753654d38eb0"
+    },
+    "public/models/sedan-01/1.1.0/vehicle.glb": {
+      "bytes": 5131752,
+      "sha256": "1a6bd08696ff9d5e4bb34535e2077430e2b8498d520dcb318a670bc117f87212"
+    },
+    "public/models/sedan-02/1.1.0/manifest.json": {
+      "bytes": 2802,
+      "sha256": "871de9e72b90a17796e9bb9dac82a90bcd18998c55589232dc10583c4fff4898"
+    },
+    "public/models/sedan-02/1.1.0/vehicle.glb": {
+      "bytes": 5566108,
+      "sha256": "6c758b8e3cbf33207a8e22991d2be2a1f2cffd793a68f49ecf8396ccb827f7ad"
+    },
+    "public/models/sedan-03/1.1.0/manifest.json": {
+      "bytes": 2945,
+      "sha256": "d2c0d2a7fe4d6a05ab76817b9c72a8c0ddc7fa213466f0a6cd5419b00da44a7f"
+    },
+    "public/models/sedan-03/1.1.0/vehicle.glb": {
+      "bytes": 8327332,
+      "sha256": "be7bd04a5e3f7bd7cf2aad9b02e77977d434fd97f5d5674665a8250f30867672"
+    },
+    "public/models/suv-01/1.1.0/manifest.json": {
+      "bytes": 2958,
+      "sha256": "982ec32aa4d2d60d8d3d22b70235310010f5e839bbc19ec22b37209b2ae2439e"
+    },
+    "public/models/suv-01/1.1.0/vehicle.glb": {
+      "bytes": 11149960,
+      "sha256": "92b6e92044815063e9671091a2104d34a60138f59e0cbf248124f04f1bec1c13"
+    },
+    "public/models/suv-02/1.1.0/manifest.json": {
+      "bytes": 2809,
+      "sha256": "e5ecbc4e63730260577da227baaa2b8304695db272a41c5d08af50540cc8268e"
+    },
+    "public/models/suv-02/1.1.0/vehicle.glb": {
+      "bytes": 7441604,
+      "sha256": "17ff905b7377f8196841407e899184c6abc807162d7608a91509cd677c67b81e"
+    },
+    "public/previews/sedan-01.webp": {
+      "bytes": 37108,
+      "sha256": "2b7d7c0388fe02c4310e2f53a3e7dc6264f5925b2c6d3c1635fb18e3271c8ca3"
+    },
+    "public/previews/sedan-02.webp": {
+      "bytes": 41668,
+      "sha256": "56c75024c297d2aaf52ebd8a61976ed78ca2363d1f7c056f094111f0090055e1"
+    },
+    "public/previews/sedan-03.webp": {
+      "bytes": 36516,
+      "sha256": "9c0b3e0aa0573ca6d98c7c7424ba00112dcc91ebbdb376021295a2269b80a410"
+    },
+    "public/previews/suv-01.webp": {
+      "bytes": 42080,
+      "sha256": "4e4cef8046f16269cee2245451eed07b276d301c5d0cfe588cfcabc43845567e"
+    },
+    "public/previews/suv-02.webp": {
+      "bytes": 48984,
+      "sha256": "1437437755b5b4cc46ed59639c970a74561d5c4f65c5f15df27cc5f949cd3283"
+    },
+    "scripts/modeling/audit-source.py": {
+      "bytes": 2361,
+      "sha256": "f79ed8ae39dd9f3b2dc8b543187d8d5d6b37e6394016f7b2fd9535f7dc0d7614"
+    },
+    "scripts/modeling/build_sedan_01.py": {
+      "bytes": 48445,
+      "sha256": "72eea795752e3048a8f891b422e5a2c7654c232fe93572435efe3e462d128eaa"
+    },
+    "scripts/modeling/build_sedan_02.py": {
+      "bytes": 47120,
+      "sha256": "2803fa12bfea8da5289451e56e3350dfe164348334801fb3a4c52c6922dda370"
+    },
+    "scripts/modeling/build_sedan_03.py": {
+      "bytes": 14995,
+      "sha256": "d7cf9d9b7f8819a2343b6324b4d3dcd4698eb53bc3c15c2847c8a16788327da3"
+    },
+    "scripts/modeling/build_suv_01.py": {
+      "bytes": 22282,
+      "sha256": "09c248619636dc3e615dbddc6ce35d9cf92a0b4b5ebffa36b6fed8d6dc36ec44"
+    },
+    "scripts/modeling/build_suv_02.py": {
+      "bytes": 30998,
+      "sha256": "b1725abe8b28f1f695086267ed515ec9d669a7f0c43db9a8c087fb0288907e17"
+    },
+    "scripts/modeling/convex-hull.mjs": {
+      "bytes": 2039,
+      "sha256": "31d7e59a5fdd25475d589f95e2ebc4b95b41f5840691cc825a5ee89eb43dfea4"
+    },
+    "scripts/modeling/convex_support.py": {
+      "bytes": 795,
+      "sha256": "5f3e73845d9312f799719e47aa6c70047fe72795b0d55f21d313314496bffb11"
+    },
+    "scripts/modeling/inspect-optics.py": {
+      "bytes": 1625,
+      "sha256": "b444d3ec0ff480ea41cfcc707ed765a9e8802333eca6f936d02f0e29c3f81c16"
+    },
+    "scripts/modeling/inspect-sedan_01-details.py": {
+      "bytes": 1876,
+      "sha256": "cd0d85b5ebe441e423d8e81cffb1a0ce65eb1e1e78568c30797a3612d6471e93"
+    },
+    "scripts/modeling/mesh_aperture.py": {
+      "bytes": 7314,
+      "sha256": "d2faa1c83d463415b6ba86bc41973b52b5a634fe06423c45bc74e0f008704d19"
+    },
+    "scripts/modeling/pack-model.mjs": {
+      "bytes": 4278,
+      "sha256": "2282ce11496779e1e6dd492b626fd8feffad1eb361410e50ae4e51ff3794a91c"
+    },
+    "scripts/modeling/prepare-blender.mjs": {
+      "bytes": 2173,
+      "sha256": "df2094285d94022fefe7b452dee0a6f08ef99b8490896f8b3d54d7dcd212cc26"
+    },
+    "scripts/modeling/public_source.py": {
+      "bytes": 564,
+      "sha256": "81061fc98247d6e9577dbbe9eb4eff45e0fbc0d9f759df36076f9e1bbd1db304"
+    },
+    "scripts/modeling/render-review.py": {
+      "bytes": 7706,
+      "sha256": "067ff5af0f1cd5dcd631ad71c1457a78c19ab39e2482f0dce843e9123abf6a78"
+    },
+    "scripts/modeling/sedan_01_front.py": {
+      "bytes": 16816,
+      "sha256": "9b3d26774f0173478ef6171e2b8d732e0ecfac57a7f278cd87acb605802bf9fd"
+    },
+    "scripts/modeling/sedan_01_handles.py": {
+      "bytes": 4598,
+      "sha256": "2ce554e0d101f521d8847f0f5ededf3bb144829e22a9ae266a696df33ba29cb2"
+    },
+    "scripts/modeling/sedan_01_lamps.py": {
+      "bytes": 11140,
+      "sha256": "2b52550107d30a434a8e37c9db0abb125a6f87ddbf4af23e930dafe33cf33bea"
+    },
+    "scripts/modeling/sedan_01_wheels.py": {
+      "bytes": 3792,
+      "sha256": "f143fa5c40895a1705442e5c4371f499ee5a52f1bff6bb22417eb9f5756700b9"
+    },
+    "scripts/modeling/sedan_02-ray-check.mjs": {
+      "bytes": 2642,
+      "sha256": "2423f1f9850ea667d7241a994164e599b8d4c5b718d35f0c7b671ec9df2029e4"
+    },
+    "scripts/modeling/sedan_02-surface-check.mjs": {
+      "bytes": 1865,
+      "sha256": "350e0b3b0d9f89d7e9a8a64355944757e9fcccd73b92b12ddf5ceb85b3a6592f"
+    },
+    "scripts/modeling/sedan_02_review.py": {
+      "bytes": 2461,
+      "sha256": "8ae25b814a483156360fb6eb2bdb021f23fdbda49522a41814d38bf88a7cb1c5"
+    },
+    "scripts/modeling/sedan_03_cabin.py": {
+      "bytes": 10718,
+      "sha256": "248bf1d7775fdc8477bda4888a3f85a673dcef5c20323157cefcfb299cae4c79"
+    },
+    "scripts/modeling/sedan_03_cpu_check.py": {
+      "bytes": 5459,
+      "sha256": "c14070c448fee4c39191e019c35a7fc53dc00f2a72e26db96d784adebf247b8a"
+    },
+    "scripts/modeling/sedan_03_front.py": {
+      "bytes": 8967,
+      "sha256": "90bf038d096e6c4e6edc61df5640cff25965500c31aec8fd1f3ed8ae5b1b989a"
+    },
+    "scripts/modeling/sedan_03_opening_ray_check.mjs": {
+      "bytes": 3585,
+      "sha256": "aae59ea44693000548375d5a37ea788a0291f735daab1a0b89f82c7223bb94d4"
+    },
+    "scripts/modeling/sedan_03_opening_review.py": {
+      "bytes": 2880,
+      "sha256": "1415b376cc4263d3296004c6bbc0cd15ae01e9a2ad22f6f5fb412dbe3300a004"
+    },
+    "scripts/modeling/sedan_03_rear.py": {
+      "bytes": 9527,
+      "sha256": "88ab06464fb1ea018f0b3fe2b3fa7cf4bb5f38cdfdfe45de5da4a61ed1226cb0"
+    },
+    "scripts/modeling/sedan_03_review.py": {
+      "bytes": 2589,
+      "sha256": "bfd023db19588d0e6e18e5c0d479736ca73c237107aa21dd73139fcfa27c032a"
+    },
+    "scripts/modeling/sedan_03_steering_review.py": {
+      "bytes": 2927,
+      "sha256": "e69833ad6a4a2be4cb16fe4029b2834cefe7df9d1d115d26e554c2558dabc831"
+    },
+    "scripts/modeling/sedan_03_surface_checks.py": {
+      "bytes": 8876,
+      "sha256": "c951e04d2340f55bb66b0548b6f825bc492b9e7f2f0d85deebf37026abc68f39"
+    },
+    "scripts/modeling/sedan_03_surfaces.py": {
+      "bytes": 12518,
+      "sha256": "822c87ebb396cb0a3d05e6ea7c89cdb90b2f5f1203e2126a5adf6f605632c24d"
+    },
+    "scripts/modeling/sedan_03_wheels.py": {
+      "bytes": 4399,
+      "sha256": "6d5187531226d7cb44f8d1c3ae4cdd85db27783351487f40ad1b37edeafc595a"
+    },
+    "scripts/modeling/suv_01_cabin.py": {
+      "bytes": 13408,
+      "sha256": "d9e21379ee09cfff015e0abbdcf148f6c307804236faf3e1272b323739808ffe"
+    },
+    "scripts/modeling/suv_01_front.py": {
+      "bytes": 11855,
+      "sha256": "9dbd18d73fd13bdf05c0a67f35a428564222331c40337f7c78513af514c66f3c"
+    },
+    "scripts/modeling/suv_01_rear.py": {
+      "bytes": 15133,
+      "sha256": "e9fc65bba2c0e7e328f1d20b9375e0d59440b1beb72b6a0a3aa920c03f2470d4"
+    },
+    "scripts/modeling/suv_01_review.py": {
+      "bytes": 5345,
+      "sha256": "14b23a567875c9ebc9c0dcfc613b50ed9addf6f851cc73a37a346127411da3ff"
+    },
+    "scripts/modeling/suv_01_wheels.py": {
+      "bytes": 6277,
+      "sha256": "fbff3160e2688c77d619a2ffcaa0f53a2b4ebc2d68d0c255f1a260a1fc6bc8a0"
+    },
+    "scripts/modeling/suv_02_cabin.py": {
+      "bytes": 20400,
+      "sha256": "07118ad3577324a1322bda0a6ad314ef0ccc62a562a9a3f5b3d817fcfe9ca22e"
+    },
+    "scripts/modeling/suv_02_check_visibility.mjs": {
+      "bytes": 5724,
+      "sha256": "2311ed1ce64c79563b13123f5d90a9ae2926268065f2510eaf14edbb7397e04b"
+    },
+    "scripts/modeling/suv_02_geometry_check.py": {
+      "bytes": 3966,
+      "sha256": "381133f8a7946d499f7994dd1b0f7330bdb27cdf8e0b7e5dc7000e82d702f696"
+    },
+    "scripts/modeling/suv_02_hull_diagnosis.py": {
+      "bytes": 3360,
+      "sha256": "8e80f1b0bdb74e307212541f78cf38e7c8940605afbc37101e91b09e5feb5323"
+    },
+    "scripts/modeling/suv_02_mesh_diagnosis.py": {
+      "bytes": 2503,
+      "sha256": "fb28be8739532dd100fb93a7a6f3641287b391644aee65fb0125e0e7cc4aeb27"
+    },
+    "scripts/modeling/suv_02_normal_probe.py": {
+      "bytes": 1964,
+      "sha256": "a9e86e91109ddaea19083fb4f48e2b2e2a2f795cf0d788ab6ec8d203e32b31b1"
+    },
+    "scripts/modeling/suv_02_review_details.py": {
+      "bytes": 2598,
+      "sha256": "33b177e6fa55185e1376fed7dcf40e31e5c730d9f0153f0c8da286b913bfac6d"
+    },
+    "scripts/modeling/suv_02_surface_diagnosis.mjs": {
+      "bytes": 2638,
+      "sha256": "3a0b40094f6511075d079bff8958b746dbdcee3df2f376035f8ad0e9d26d0ca6"
+    },
+    "scripts/modeling/suv_02_surfaces.py": {
+      "bytes": 19150,
+      "sha256": "680750f61e87c28988fefc0c2d4b8b6f435b841666698b8f537591aa66f8a160"
+    },
+    "scripts/modeling/vehicle_authoring.py": {
+      "bytes": 12239,
+      "sha256": "53dd1b5145f2b2cf0ae596ff1da93f3ac44780141bad85b66764e8521788ddde"
+    },
+    "scripts/modeling/verify-asset.mjs": {
+      "bytes": 4984,
+      "sha256": "3fa112062ec0ee650ba5c839e9688d6039be98f4a1ef787a095e6e39bcb8ada6"
+    },
+    "scripts/snapshot-release.mjs": {
+      "bytes": 2903,
+      "sha256": "07658214f8b544633d3ed271c79602b45eb5ab4c1244c3d9cda37e0e957ae7ec"
+    },
+    "src/App.vue": {
+      "bytes": 123,
+      "sha256": "d166500934898df99a8441f3756a346733d0a9a31a32f621d6732bafc5506cfb"
+    },
+    "src/adas/scenarios.test.ts": {
+      "bytes": 5466,
+      "sha256": "8a5e307f6da66938bc707e2c4285723d3e98a5dfcb55c1f946dc8029acebf3bf"
+    },
+    "src/adas/scenarios.ts": {
+      "bytes": 5382,
+      "sha256": "1444e0d33684fde6b4ef16eb599d592f2f569897d2dda6b0caacae8c279065af"
+    },
+    "src/components/AdasControls.vue": {
+      "bytes": 4772,
+      "sha256": "e8491b59dd478b4a7a4ce02ecb4a8b4d39904418db20871411df14dc48d865ed"
+    },
+    "src/components/AppIcon.vue": {
+      "bytes": 1799,
+      "sha256": "faa8b53533f44911439196a7c6e4cecd011addede93640e6e5f14c5443d6c546"
+    },
+    "src/components/CarvueBrand.vue": {
+      "bytes": 345,
+      "sha256": "33b03f5a658b171730c8d508d3d46adb9fd5abcceef38b06e604f40e209f96b7"
+    },
+    "src/components/VehicleControls.vue": {
+      "bytes": 4389,
+      "sha256": "8a8107a41bdc7173d4618eedab8edd24fc3a81617cc3e25f37b26c8930e27a15"
+    },
+    "src/components/VehiclePreview.vue": {
+      "bytes": 834,
+      "sha256": "d4d6f38b72febd30db2e06b8fcb3b6ca8df6a6d5cdde077b46f697f71b888a1f"
+    },
+    "src/components/VehicleViewer.vue": {
+      "bytes": 28897,
+      "sha256": "031a03bcb750502ac271ea4ce5664cef0cc1c513b350fcd14e00962e53b41dad"
+    },
+    "src/data/vehicles.ts": {
+      "bytes": 2048,
+      "sha256": "f5c6e424ebc537586770a6fbf074b3b1d7609fdb4f4916365fa520f1bffa9771"
+    },
+    "src/main.ts": {
+      "bytes": 163,
+      "sha256": "38b77c4cd81bf3843301ff159ff8db3161a734ef4c93ecda8417658c1d2dce94"
+    },
+    "src/router.ts": {
+      "bytes": 591,
+      "sha256": "77669552b81b40f3ecf48e5b29195a74ace3a4385c0247b98b4012e3401be8f8"
+    },
+    "src/style.css": {
+      "bytes": 25721,
+      "sha256": "07bded8f90d6a8a7a785a36800067d6dc33a32a7218b1d851f4ccddefffe69b1"
+    },
+    "src/three/adasScene.test.ts": {
+      "bytes": 5701,
+      "sha256": "b365deac61f3a1f782281ac62bc85499d8108358ba2bf52d776ddce848087e37"
+    },
+    "src/three/adasScene.ts": {
+      "bytes": 13056,
+      "sha256": "fdcbaa22a6b40493be0421ebeaa08fa7e5b99f01b6b95b605e0c678c55b2397d"
+    },
+    "src/three/assetRig.test.ts": {
+      "bytes": 10934,
+      "sha256": "3f055f95fa9570204573b23827803c63c2275fef8ba9b80a9f75e85ec9b10b33"
+    },
+    "src/three/assetRig.ts": {
+      "bytes": 9841,
+      "sha256": "26c7a8514c56ad54ea1e38bb19d8af3fc7766fa2fec189728f946b61070943e2"
+    },
+    "src/three/loadVehicle.test.ts": {
+      "bytes": 16498,
+      "sha256": "002659110af207199e25aa683743bca749a255103b0662aaa0b7c598de31528f"
+    },
+    "src/three/loadVehicle.ts": {
+      "bytes": 2958,
+      "sha256": "acac2b317f7fa3eacf30c1f5a48028ff02f100b6f280e56f034a2a0230b939ec"
+    },
+    "src/three/meshoptVehicle.test.ts": {
+      "bytes": 4449,
+      "sha256": "bae3238183790e545142721f5519877e1507c340224c9d6f748d4673b5202485"
+    },
+    "src/three/transition.ts": {
+      "bytes": 950,
+      "sha256": "cd3f0519f075899d6f0fa9da8c35f158fb81d4e230d571a4318b68e6f1b29985"
+    },
+    "src/three/vehicle.test.ts": {
+      "bytes": 5161,
+      "sha256": "976c616cb13a9b9f174706c2c09dab3adf137bfa39ffeb07bded335735ee3009"
+    },
+    "src/three/vehicle.ts": {
+      "bytes": 33471,
+      "sha256": "7906a61cce7aced256f84f5d285171d5e182285dcb07fe5f03cf5cc580d14622"
+    },
+    "src/types/vehicle.ts": {
+      "bytes": 2492,
+      "sha256": "3c43599fcf13c56965f78c5ed8495b59bfcead55c78c3d2d6f1552db72c7ce37"
+    },
+    "src/views/NotFoundView.vue": {
+      "bytes": 837,
+      "sha256": "289c3924c42f30a09097ca44bac29433f467d7369695efb4b016e8a0fd067d24"
+    },
+    "src/views/VehicleCollectionView.vue": {
+      "bytes": 2783,
+      "sha256": "ed1422899fa4959d7ac297c766dbc1b24c03cac089534015b82d4b39fa580368"
+    },
+    "src/views/VehicleDetailView.vue": {
+      "bytes": 11638,
+      "sha256": "3dc79fe8edb4baa86bbba28eb67424d57ab722951ad0c6d057fdc89129db59f2"
+    },
+    "tsconfig.json": {
+      "bytes": 380,
+      "sha256": "e1cd00d2900485dad6a2a414916e8b3c4f8c2e6a6b9b1ae9ebb387cc8f0975c9"
+    },
+    "vite.config.ts": {
+      "bytes": 650,
+      "sha256": "15394d84ad5c470697a691bd2589bcc5d885de5feed7953e493b5d616d80fc10"
+    }
+  },
+  "host": {
+    "platform": "win32",
+    "release": "10.0.26300",
+    "arch": "x64",
+    "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+    "logicalCpus": 12,
+    "totalMemoryBytes": 34282885120
+  },
+  "models": {
+    "sedan-01": {
+      "bytes": 5131752,
+      "sha256": "1a6bd08696ff9d5e4bb34535e2077430e2b8498d520dcb318a670bc117f87212"
+    },
+    "suv-01": {
+      "bytes": 11149960,
+      "sha256": "92b6e92044815063e9671091a2104d34a60138f59e0cbf248124f04f1bec1c13"
+    },
+    "sedan-02": {
+      "bytes": 5566108,
+      "sha256": "6c758b8e3cbf33207a8e22991d2be2a1f2cffd793a68f49ecf8396ccb827f7ad"
+    },
+    "suv-02": {
+      "bytes": 7441604,
+      "sha256": "17ff905b7377f8196841407e899184c6abc807162d7608a91509cd677c67b81e"
+    },
+    "sedan-03": {
+      "bytes": 8327332,
+      "sha256": "be7bd04a5e3f7bd7cf2aad9b02e77977d434fd97f5d5674665a8250f30867672"
+    }
+  },
+  "changedFiles": [],
+  "frozen": true
+}

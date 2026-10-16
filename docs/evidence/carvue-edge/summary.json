@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "total": 124,
+    "expected": 72,
+    "unexpected": 0,
+    "flaky": 0,
+    "skipped": 52,
+    "ok": true
+  },
+  "duration": 541229.539,
+  "projectNames": [
+    "msedge-1280",
+    "msedge-1920"
+  ],
+  "jsonMeasurements": 28
+}

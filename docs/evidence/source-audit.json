@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sedan-01",
+    "blendSha256": "31ceacf4b6d89763d85fee511e281c165f3086729dfec260096667ae438c367d",
+    "imageReferences": [],
+    "linkedLibraries": 0,
+    "embeddedScripts": 0,
+    "nodes": 102,
+    "preview": "public/previews/sedan-01.webp"
+  },
+  {
+    "id": "suv-01",
+    "blendSha256": "87fad7cac082fe0c996868c15ac23bb93bb5c9dd6d4be467f115b12c06d77fab",
+    "imageReferences": [],
+    "linkedLibraries": 0,
+    "embeddedScripts": 0,
+    "nodes": 85,
+    "preview": "public/previews/suv-01.webp"
+  },
+  {
+    "id": "sedan-02",
+    "blendSha256": "6c1555a44aeb9119672776cfcbfee5bac8e837f499a5eadfd2aadc1bf9dd4925",
+    "imageReferences": [],
+    "linkedLibraries": 0,
+    "embeddedScripts": 0,
+    "nodes": 92,
+    "preview": "public/previews/sedan-02.webp"
+  },
+  {
+    "id": "suv-02",
+    "blendSha256": "89262c02a7b183a449a97b93f82a80cba4caca5bed8928fe671cb1a2ebf255f5",
+    "imageReferences": [],
+    "linkedLibraries": 0,
+    "embeddedScripts": 0,
+    "nodes": 100,
+    "preview": "public/previews/suv-02.webp"
+  },
+  {
+    "id": "sedan-03",
+    "blendSha256": "f92d7ab5f996b0fbed2026328a01b55fd004f385feb776c8b45094529b0a5722",
+    "imageReferences": [],
+    "linkedLibraries": 0,
+    "embeddedScripts": 0,
+    "nodes": 108,
+    "preview": "public/previews/sedan-03.webp"
+  }
+]

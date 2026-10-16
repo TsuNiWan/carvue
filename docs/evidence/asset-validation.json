@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-10-16T15:05:35.904Z",
+  "limitBytes": 12582912,
+  "vehicles": [
+    {
+      "id": "sedan-01",
+      "version": "1.1.0",
+      "bytes": 5131752,
+      "triangles": 414242,
+      "nodes": 103,
+      "materials": 29,
+      "sha256": "1a6bd08696ff9d5e4bb34535e2077430e2b8498d520dcb318a670bc117f87212",
+      "external": []
+    },
+    {
+      "id": "suv-01",
+      "version": "1.1.0",
+      "bytes": 11149960,
+      "triangles": 1028368,
+      "nodes": 86,
+      "materials": 22,
+      "sha256": "92b6e92044815063e9671091a2104d34a60138f59e0cbf248124f04f1bec1c13",
+      "external": []
+    },
+    {
+      "id": "sedan-02",
+      "version": "1.1.0",
+      "bytes": 5566108,
+      "triangles": 478717,
+      "nodes": 93,
+      "materials": 22,
+      "sha256": "6c758b8e3cbf33207a8e22991d2be2a1f2cffd793a68f49ecf8396ccb827f7ad",
+      "external": []
+    },
+    {
+      "id": "suv-02",
+      "version": "1.1.0",
+      "bytes": 7441604,
+      "triangles": 621060,
+      "nodes": 101,
+      "materials": 28,
+      "sha256": "17ff905b7377f8196841407e899184c6abc807162d7608a91509cd677c67b81e",
+      "external": []
+    },
+    {
+      "id": "sedan-03",
+      "version": "1.1.0",
+      "bytes": 8327332,
+      "triangles": 729340,
+      "nodes": 109,
+      "materials": 25,
+      "sha256": "be7bd04a5e3f7bd7cf2aad9b02e77977d434fd97f5d5674665a8250f30867672",
+      "external": []
+    }
+  ],
+  "errors": []
+}

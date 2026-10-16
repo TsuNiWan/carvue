@@ -6,6 +6,12 @@ test-results/
 playwright-report/
 *.log
 .DS_Store
+.env
+.env.*
+.npmrc
+.aws/
+.codex/
+.agents/
 tools/
 *.blend1
 __pycache__/

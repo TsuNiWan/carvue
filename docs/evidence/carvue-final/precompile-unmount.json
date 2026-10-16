@@ -1,0 +1,13 @@
+{
+  "interruption": "unmount",
+  "settled": {
+    "active": 0,
+    "scheduled": 15,
+    "completions": 435
+  },
+  "afterWait": {
+    "active": 0,
+    "scheduled": 15,
+    "completions": 435
+  }
+}

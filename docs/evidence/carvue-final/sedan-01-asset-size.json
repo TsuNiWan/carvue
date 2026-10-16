@@ -1,0 +1,16 @@
+{
+  "vehicle": "sedan-01",
+  "asset": {
+    "url": "http://127.0.0.1:5173/models/sedan-01/1.1.0/vehicle.glb",
+    "bytes": 5131752,
+    "sha256": "1a6bd08696ff9d5e4bb34535e2077430e2b8498d520dcb318a670bc117f87212"
+  },
+  "limitBytes": 12582912,
+  "totalBytes": 5131752,
+  "resources": [
+    {
+      "url": "http://127.0.0.1:5173/models/sedan-01/1.1.0/vehicle.glb",
+      "bytes": 5131752
+    }
+  ]
+}

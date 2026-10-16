@@ -1,0 +1,1622 @@
+{
+  "recordedAt": "2026-10-16T15:05:39.523Z",
+  "scope": "Actual delivery GLBs and application rig logic; CPU poses and materials, not GPU rendering.",
+  "vehicles": [
+    {
+      "vehicle": "sedan-01",
+      "reversals": [
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.2501012441690965,
+          "closingProgress": 0.2491594635568506,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000007,
+          "closingProgress": 0.49999999999999933,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7508405364431494,
+          "closingProgress": 0.7498987558309035,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.2501012441690965,
+          "closingProgress": 0.2491594635568506,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000007,
+          "closingProgress": 0.49999999999999933,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7508405364431494,
+          "closingProgress": 0.7498987558309035,
+          "closed": true,
+          "reopened": true
+        }
+      ],
+      "lighting": [
+        {
+          "reduced": false,
+          "midpoint": 0.5,
+          "spots": 2,
+          "reversedToOff": true
+        },
+        {
+          "reduced": true,
+          "midpoint": 0.5,
+          "spots": 2,
+          "reversedToOff": true
+        }
+      ],
+      "steering": [
+        {
+          "reduced": false,
+          "angle": -30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": false,
+          "angle": 0,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": false,
+          "angle": 30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": -30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": 0,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": 30,
+          "bothWheelsPassed": true
+        }
+      ],
+      "sha256": "1a6bd08696ff9d5e4bb34535e2077430e2b8498d520dcb318a670bc117f87212",
+      "status": "passed"
+    },
+    {
+      "vehicle": "suv-01",
+      "reversals": [
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.2501012441690965,
+          "closingProgress": 0.2491594635568506,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000007,
+          "closingProgress": 0.49999999999999933,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7508405364431494,
+          "closingProgress": 0.7498987558309035,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.2501012441690965,
+          "closingProgress": 0.2491594635568506,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000007,
+          "closingProgress": 0.49999999999999933,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7508405364431494,
+          "closingProgress": 0.7498987558309035,
+          "closed": true,
+          "reopened": true
+        }
+      ],
+      "lighting": [
+        {
+          "reduced": false,
+          "midpoint": 0.5,
+          "spots": 2,
+          "reversedToOff": true
+        },
+        {
+          "reduced": true,
+          "midpoint": 0.5,
+          "spots": 2,
+          "reversedToOff": true
+        }
+      ],
+      "steering": [
+        {
+          "reduced": false,
+          "angle": -30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": false,
+          "angle": 0,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": false,
+          "angle": 30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": -30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": 0,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": 30,
+          "bothWheelsPassed": true
+        }
+      ],
+      "sha256": "92b6e92044815063e9671091a2104d34a60138f59e0cbf248124f04f1bec1c13",
+      "status": "passed"
+    },
+    {
+      "vehicle": "sedan-02",
+      "reversals": [
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.2501012441690965,
+          "closingProgress": 0.2491594635568506,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000007,
+          "closingProgress": 0.49999999999999933,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7508405364431494,
+          "closingProgress": 0.7498987558309035,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.2501012441690965,
+          "closingProgress": 0.2491594635568506,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000007,
+          "closingProgress": 0.49999999999999933,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7508405364431494,
+          "closingProgress": 0.7498987558309035,
+          "closed": true,
+          "reopened": true
+        }
+      ],
+      "lighting": [
+        {
+          "reduced": false,
+          "midpoint": 0.5,
+          "spots": 2,
+          "reversedToOff": true
+        },
+        {
+          "reduced": true,
+          "midpoint": 0.5,
+          "spots": 2,
+          "reversedToOff": true
+        }
+      ],
+      "steering": [
+        {
+          "reduced": false,
+          "angle": -30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": false,
+          "angle": 0,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": false,
+          "angle": 30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": -30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": 0,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": 30,
+          "bothWheelsPassed": true
+        }
+      ],
+      "sha256": "6c758b8e3cbf33207a8e22991d2be2a1f2cffd793a68f49ecf8396ccb827f7ad",
+      "status": "passed"
+    },
+    {
+      "vehicle": "suv-02",
+      "reversals": [
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.2501012441690965,
+          "closingProgress": 0.2491594635568506,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000007,
+          "closingProgress": 0.49999999999999933,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7508405364431494,
+          "closingProgress": 0.7498987558309035,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.2501012441690965,
+          "closingProgress": 0.2491594635568506,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000007,
+          "closingProgress": 0.49999999999999933,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7508405364431494,
+          "closingProgress": 0.7498987558309035,
+          "closed": true,
+          "reopened": true
+        }
+      ],
+      "lighting": [
+        {
+          "reduced": false,
+          "midpoint": 0.5,
+          "spots": 2,
+          "reversedToOff": true
+        },
+        {
+          "reduced": true,
+          "midpoint": 0.5,
+          "spots": 2,
+          "reversedToOff": true
+        }
+      ],
+      "steering": [
+        {
+          "reduced": false,
+          "angle": -30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": false,
+          "angle": 0,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": false,
+          "angle": 30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": -30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": 0,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": 30,
+          "bothWheelsPassed": true
+        }
+      ],
+      "sha256": "17ff905b7377f8196841407e899184c6abc807162d7608a91509cd677c67b81e",
+      "status": "passed"
+    },
+    {
+      "vehicle": "sedan-03",
+      "reversals": [
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.25,
+          "reached": 0.2501012441690965,
+          "closingProgress": 0.2491594635568506,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.5,
+          "reached": 0.5000000000000007,
+          "closingProgress": 0.49999999999999933,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": false,
+          "fraction": 0.75,
+          "reached": 0.7508405364431494,
+          "closingProgress": 0.7498987558309035,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontLeft",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "frontRight",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearLeft",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.25001558377160055,
+          "closingProgress": 0.2488172622088649,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000004,
+          "closingProgress": 0.49999999999999956,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "rearRight",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7511827377911351,
+          "closingProgress": 0.7499844162283995,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.25,
+          "reached": 0.2501012441690965,
+          "closingProgress": 0.2491594635568506,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.5,
+          "reached": 0.5000000000000007,
+          "closingProgress": 0.49999999999999933,
+          "closed": true,
+          "reopened": true
+        },
+        {
+          "part": "trunk",
+          "reduced": true,
+          "fraction": 0.75,
+          "reached": 0.7508405364431494,
+          "closingProgress": 0.7498987558309035,
+          "closed": true,
+          "reopened": true
+        }
+      ],
+      "lighting": [
+        {
+          "reduced": false,
+          "midpoint": 0.5,
+          "spots": 2,
+          "reversedToOff": true
+        },
+        {
+          "reduced": true,
+          "midpoint": 0.5,
+          "spots": 2,
+          "reversedToOff": true
+        }
+      ],
+      "steering": [
+        {
+          "reduced": false,
+          "angle": -30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": false,
+          "angle": 0,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": false,
+          "angle": 30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": -30,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": 0,
+          "bothWheelsPassed": true
+        },
+        {
+          "reduced": true,
+          "angle": 30,
+          "bothWheelsPassed": true
+        }
+      ],
+      "sha256": "be7bd04a5e3f7bd7cf2aad9b02e77977d434fd97f5d5674665a8250f30867672",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

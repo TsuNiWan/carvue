@@ -1,0 +1,16 @@
+{
+  "vehicle": "suv-01",
+  "asset": {
+    "url": "http://127.0.0.1:5173/models/suv-01/1.1.0/vehicle.glb",
+    "bytes": 11149960,
+    "sha256": "92b6e92044815063e9671091a2104d34a60138f59e0cbf248124f04f1bec1c13"
+  },
+  "limitBytes": 12582912,
+  "totalBytes": 11149960,
+  "resources": [
+    {
+      "url": "http://127.0.0.1:5173/models/suv-01/1.1.0/vehicle.glb",
+      "bytes": 11149960
+    }
+  ]
+}

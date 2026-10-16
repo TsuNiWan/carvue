@@ -1,0 +1,162 @@
+{
+  "checkedAt": "2026-10-16T15:43:56.345890+00:00",
+  "checked": 31,
+  "missing": [],
+  "links": [
+    {
+      "document": "README.md",
+      "reference": "docs/images/collection.webp",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "docs/images/showroom.webp",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "docs/images/open-parts.webp",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "docs/images/safety.webp",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "docs/verification.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "docs/vehicle-assets.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "LICENSE",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "ASSET_RIGHTS.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "THIRD_PARTY_NOTICES.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "docs/product-plan.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "docs/design.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "docs/vehicle-assets.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "reference": "docs/verification.md",
+      "exists": true
+    },
+    {
+      "document": "docs\\code-review.md",
+      "reference": "verification.md",
+      "exists": true
+    },
+    {
+      "document": "docs\\code-review.md",
+      "reference": "privacy-review.md",
+      "exists": true
+    },
+    {
+      "document": "docs\\privacy-review.md",
+      "reference": "evidence/privacy-scanner-check.json",
+      "exists": true
+    },
+    {
+      "document": "docs\\privacy-review.md",
+      "reference": "../ASSET_RIGHTS.md",
+      "exists": true
+    },
+    {
+      "document": "docs\\product-plan.md",
+      "reference": "evidence/source-audit.json",
+      "exists": true
+    },
+    {
+      "document": "docs\\product-plan.md",
+      "reference": "evidence/visual-review.json",
+      "exists": true
+    },
+    {
+      "document": "docs\\product-plan.md",
+      "reference": "evidence/asset-validation.json",
+      "exists": true
+    },
+    {
+      "document": "docs\\product-plan.md",
+      "reference": "evidence/cleanup-summary.json",
+      "exists": true
+    },
+    {
+      "document": "docs\\product-plan.md",
+      "reference": "../ASSET_RIGHTS.md",
+      "exists": true
+    },
+    {
+      "document": "docs\\product-plan.md",
+      "reference": "../THIRD_PARTY_NOTICES.md",
+      "exists": true
+    },
+    {
+      "document": "docs\\product-plan.md",
+      "reference": "evidence/dependency-licenses.json",
+      "exists": true
+    },
+    {
+      "document": "docs\\product-plan.md",
+      "reference": "verification.md",
+      "exists": true
+    },
+    {
+      "document": "docs\\product-plan.md",
+      "reference": "../README.md",
+      "exists": true
+    },
+    {
+      "document": "docs\\vehicle-assets.md",
+      "reference": "../ASSET_RIGHTS.md",
+      "exists": true
+    },
+    {
+      "document": "docs\\vehicle-assets.md",
+      "reference": "verification.md",
+      "exists": true
+    },
+    {
+      "document": "docs\\verification.md",
+      "reference": "evidence/carvue-recheck",
+      "exists": true
+    },
+    {
+      "document": "docs\\verification.md",
+      "reference": "evidence/carvue-final",
+      "exists": true
+    },
+    {
+      "document": "docs\\verification.md",
+      "reference": "evidence/browser-summary.json",
+      "exists": true
+    }
+  ]
+}

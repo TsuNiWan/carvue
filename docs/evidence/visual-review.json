@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sedan-01",
+    "glbSha256": "1a6bd08696ff9d5e4bb34535e2077430e2b8498d520dcb318a670bc117f87212",
+    "views": 22,
+    "inspection": "Eight directions and four open views inspected; badges absent and no visible new holes or detached parts from removal. Cabin detail remains an approximation.",
+    "browserVersion": "155.0.8059.85",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "id": "suv-01",
+    "glbSha256": "92b6e92044815063e9671091a2104d34a60138f59e0cbf248124f04f1bec1c13",
+    "views": 22,
+    "inspection": "Eight directions and four open views inspected; badges absent and no visible new holes or detached parts from removal. Cabin detail remains an approximation.",
+    "browserVersion": "155.0.8059.85",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "id": "sedan-02",
+    "glbSha256": "6c758b8e3cbf33207a8e22991d2be2a1f2cffd793a68f49ecf8396ccb827f7ad",
+    "views": 22,
+    "inspection": "Eight directions and four open views inspected; badges absent and no visible new holes or detached parts from removal. Cabin detail remains an approximation.",
+    "browserVersion": "155.0.8059.85",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "id": "suv-02",
+    "glbSha256": "17ff905b7377f8196841407e899184c6abc807162d7608a91509cd677c67b81e",
+    "views": 22,
+    "inspection": "Eight directions and four open views inspected; badges absent and no visible new holes or detached parts from removal. Cabin detail remains an approximation.",
+    "browserVersion": "155.0.8059.85",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "id": "sedan-03",
+    "glbSha256": "be7bd04a5e3f7bd7cf2aad9b02e77977d434fd97f5d5674665a8250f30867672",
+    "views": 22,
+    "inspection": "Eight directions and four open views inspected; badges absent and no visible new holes or detached parts from removal. Cabin detail remains an approximation.",
+    "browserVersion": "155.0.8059.85",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  }
+]
