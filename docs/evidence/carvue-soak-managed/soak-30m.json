@@ -1,0 +1,3835 @@
+{
+  "requestedDurationMs": 1800000,
+  "elapsedMs": 1803433,
+  "startedAt": "2026-10-16T16:10:38.478Z",
+  "endedAt": "2026-10-16T16:40:41.911Z",
+  "browserVersion": "155.0.8059.85",
+  "host": {
+    "platform": "win32",
+    "release": "10.0.26300",
+    "arch": "x64",
+    "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+    "logicalCpus": 12,
+    "totalMemoryBytes": 34282885120
+  },
+  "coldBaselines": {
+    "sedan-01": {
+      "geometries": 98,
+      "textures": 4
+    },
+    "suv-01": {
+      "geometries": 81,
+      "textures": 4
+    },
+    "sedan-02": {
+      "geometries": 88,
+      "textures": 4
+    },
+    "suv-02": {
+      "geometries": 96,
+      "textures": 4
+    },
+    "sedan-03": {
+      "geometries": 104,
+      "textures": 4
+    }
+  },
+  "baselines": {
+    "sedan-01": {
+      "geometries": 120,
+      "textures": 4
+    },
+    "suv-01": {
+      "geometries": 103,
+      "textures": 4
+    },
+    "sedan-02": {
+      "geometries": 110,
+      "textures": 4
+    },
+    "suv-02": {
+      "geometries": 118,
+      "textures": 4
+    },
+    "sedan-03": {
+      "geometries": 126,
+      "textures": 4
+    }
+  },
+  "samples": [
+    {
+      "elapsedMs": 4204,
+      "cycle": 0,
+      "frames": 3920,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 8639,
+      "cycle": 1,
+      "frames": 4656,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 12830,
+      "cycle": 2,
+      "frames": 5381,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 17118,
+      "cycle": 3,
+      "frames": 6107,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 21440,
+      "cycle": 4,
+      "frames": 6830,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 25639,
+      "cycle": 5,
+      "frames": 7553,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 30045,
+      "cycle": 6,
+      "frames": 8280,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 34253,
+      "cycle": 7,
+      "frames": 8998,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 38498,
+      "cycle": 8,
+      "frames": 9719,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 42807,
+      "cycle": 9,
+      "frames": 10445,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 46988,
+      "cycle": 10,
+      "frames": 11163,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 51452,
+      "cycle": 11,
+      "frames": 11886,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 55657,
+      "cycle": 12,
+      "frames": 12620,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 59900,
+      "cycle": 13,
+      "frames": 13340,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 64193,
+      "cycle": 14,
+      "frames": 14064,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 68438,
+      "cycle": 15,
+      "frames": 14781,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 72899,
+      "cycle": 16,
+      "frames": 15515,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 77077,
+      "cycle": 17,
+      "frames": 16240,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 81443,
+      "cycle": 18,
+      "frames": 16958,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 85732,
+      "cycle": 19,
+      "frames": 17689,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 89938,
+      "cycle": 20,
+      "frames": 18411,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 94345,
+      "cycle": 21,
+      "frames": 19132,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 98560,
+      "cycle": 22,
+      "frames": 19854,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 102895,
+      "cycle": 23,
+      "frames": 20572,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 107192,
+      "cycle": 24,
+      "frames": 21304,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 111391,
+      "cycle": 25,
+      "frames": 22026,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 115814,
+      "cycle": 26,
+      "frames": 22755,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 120002,
+      "cycle": 27,
+      "frames": 23478,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 124247,
+      "cycle": 28,
+      "frames": 24198,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 128541,
+      "cycle": 29,
+      "frames": 24924,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 132753,
+      "cycle": 30,
+      "frames": 25643,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 137202,
+      "cycle": 31,
+      "frames": 26374,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 141391,
+      "cycle": 32,
+      "frames": 27102,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 145658,
+      "cycle": 33,
+      "frames": 27823,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 149975,
+      "cycle": 34,
+      "frames": 28555,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 154206,
+      "cycle": 35,
+      "frames": 29278,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 158622,
+      "cycle": 36,
+      "frames": 30003,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 162885,
+      "cycle": 37,
+      "frames": 30734,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 167177,
+      "cycle": 38,
+      "frames": 31461,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 171533,
+      "cycle": 39,
+      "frames": 32193,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 175749,
+      "cycle": 40,
+      "frames": 32913,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 180158,
+      "cycle": 41,
+      "frames": 33644,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 184341,
+      "cycle": 42,
+      "frames": 34365,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 188619,
+      "cycle": 43,
+      "frames": 35090,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 192945,
+      "cycle": 44,
+      "frames": 35818,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 197138,
+      "cycle": 45,
+      "frames": 36537,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 201571,
+      "cycle": 46,
+      "frames": 37266,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 205743,
+      "cycle": 47,
+      "frames": 37988,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 210005,
+      "cycle": 48,
+      "frames": 38713,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 214337,
+      "cycle": 49,
+      "frames": 39434,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 218524,
+      "cycle": 50,
+      "frames": 40163,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 222959,
+      "cycle": 51,
+      "frames": 40888,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 227147,
+      "cycle": 52,
+      "frames": 41615,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 231419,
+      "cycle": 53,
+      "frames": 42335,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 235727,
+      "cycle": 54,
+      "frames": 43065,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 239928,
+      "cycle": 55,
+      "frames": 43784,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 244390,
+      "cycle": 56,
+      "frames": 44515,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 248585,
+      "cycle": 57,
+      "frames": 45249,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 252867,
+      "cycle": 58,
+      "frames": 45963,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 257195,
+      "cycle": 59,
+      "frames": 46691,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 261397,
+      "cycle": 60,
+      "frames": 47416,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 265808,
+      "cycle": 61,
+      "frames": 48136,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 270012,
+      "cycle": 62,
+      "frames": 48858,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 274291,
+      "cycle": 63,
+      "frames": 49587,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 278619,
+      "cycle": 64,
+      "frames": 50311,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 282849,
+      "cycle": 65,
+      "frames": 51044,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 287378,
+      "cycle": 66,
+      "frames": 51772,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 291558,
+      "cycle": 67,
+      "frames": 52494,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 295836,
+      "cycle": 68,
+      "frames": 53219,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 300159,
+      "cycle": 69,
+      "frames": 53942,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 304341,
+      "cycle": 70,
+      "frames": 54670,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 308755,
+      "cycle": 71,
+      "frames": 55392,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 312979,
+      "cycle": 72,
+      "frames": 56107,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 317249,
+      "cycle": 73,
+      "frames": 56836,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 321583,
+      "cycle": 74,
+      "frames": 57559,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 325796,
+      "cycle": 75,
+      "frames": 58287,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 330226,
+      "cycle": 76,
+      "frames": 59014,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 334428,
+      "cycle": 77,
+      "frames": 59736,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 338756,
+      "cycle": 78,
+      "frames": 60468,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 343078,
+      "cycle": 79,
+      "frames": 61195,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 347279,
+      "cycle": 80,
+      "frames": 61922,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 351736,
+      "cycle": 81,
+      "frames": 62649,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 355960,
+      "cycle": 82,
+      "frames": 63374,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 360267,
+      "cycle": 83,
+      "frames": 64099,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 364598,
+      "cycle": 84,
+      "frames": 64830,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 368837,
+      "cycle": 85,
+      "frames": 65556,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 373300,
+      "cycle": 86,
+      "frames": 66287,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 377505,
+      "cycle": 87,
+      "frames": 67016,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 381838,
+      "cycle": 88,
+      "frames": 67744,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 386193,
+      "cycle": 89,
+      "frames": 68477,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 390381,
+      "cycle": 90,
+      "frames": 69208,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 394837,
+      "cycle": 91,
+      "frames": 69936,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 399072,
+      "cycle": 92,
+      "frames": 70661,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 403383,
+      "cycle": 93,
+      "frames": 71393,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 407754,
+      "cycle": 94,
+      "frames": 72121,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 411969,
+      "cycle": 95,
+      "frames": 72851,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 416444,
+      "cycle": 96,
+      "frames": 73584,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 420681,
+      "cycle": 97,
+      "frames": 74311,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 424981,
+      "cycle": 98,
+      "frames": 75039,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 429291,
+      "cycle": 99,
+      "frames": 75767,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 433478,
+      "cycle": 100,
+      "frames": 76489,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 437936,
+      "cycle": 101,
+      "frames": 77222,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 442129,
+      "cycle": 102,
+      "frames": 77945,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 446427,
+      "cycle": 103,
+      "frames": 78668,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 450746,
+      "cycle": 104,
+      "frames": 79399,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 454967,
+      "cycle": 105,
+      "frames": 80121,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 459433,
+      "cycle": 106,
+      "frames": 80851,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 463622,
+      "cycle": 107,
+      "frames": 81568,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 467904,
+      "cycle": 108,
+      "frames": 82295,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 472207,
+      "cycle": 109,
+      "frames": 83022,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 476369,
+      "cycle": 110,
+      "frames": 83745,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 480816,
+      "cycle": 111,
+      "frames": 84465,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 485023,
+      "cycle": 112,
+      "frames": 85196,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 489320,
+      "cycle": 113,
+      "frames": 85921,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 493637,
+      "cycle": 114,
+      "frames": 86645,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 497869,
+      "cycle": 115,
+      "frames": 87371,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 502355,
+      "cycle": 116,
+      "frames": 88093,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 506562,
+      "cycle": 117,
+      "frames": 88827,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 510848,
+      "cycle": 118,
+      "frames": 89549,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 515175,
+      "cycle": 119,
+      "frames": 90272,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 519411,
+      "cycle": 120,
+      "frames": 91003,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 523847,
+      "cycle": 121,
+      "frames": 91733,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 528061,
+      "cycle": 122,
+      "frames": 92455,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 532402,
+      "cycle": 123,
+      "frames": 93187,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 536720,
+      "cycle": 124,
+      "frames": 93912,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 540956,
+      "cycle": 125,
+      "frames": 94636,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 545390,
+      "cycle": 126,
+      "frames": 95370,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 549598,
+      "cycle": 127,
+      "frames": 96099,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 553916,
+      "cycle": 128,
+      "frames": 96820,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 558593,
+      "cycle": 129,
+      "frames": 97547,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 563597,
+      "cycle": 130,
+      "frames": 98366,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 568423,
+      "cycle": 131,
+      "frames": 99135,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 572683,
+      "cycle": 132,
+      "frames": 99842,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 577006,
+      "cycle": 133,
+      "frames": 100576,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 581346,
+      "cycle": 134,
+      "frames": 101305,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 585645,
+      "cycle": 135,
+      "frames": 102032,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 590151,
+      "cycle": 136,
+      "frames": 102766,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 594375,
+      "cycle": 137,
+      "frames": 103504,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 598676,
+      "cycle": 138,
+      "frames": 104225,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 602997,
+      "cycle": 139,
+      "frames": 104954,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 607243,
+      "cycle": 140,
+      "frames": 105682,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 611691,
+      "cycle": 141,
+      "frames": 106412,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 615898,
+      "cycle": 142,
+      "frames": 107140,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 620231,
+      "cycle": 143,
+      "frames": 107863,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 624605,
+      "cycle": 144,
+      "frames": 108589,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 628854,
+      "cycle": 145,
+      "frames": 109326,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 633337,
+      "cycle": 146,
+      "frames": 110058,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 637565,
+      "cycle": 147,
+      "frames": 110787,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 641899,
+      "cycle": 148,
+      "frames": 111512,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 646212,
+      "cycle": 149,
+      "frames": 112244,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 650466,
+      "cycle": 150,
+      "frames": 112969,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 654887,
+      "cycle": 151,
+      "frames": 113700,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 659066,
+      "cycle": 152,
+      "frames": 114426,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 663342,
+      "cycle": 153,
+      "frames": 115148,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 667686,
+      "cycle": 154,
+      "frames": 115870,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 671935,
+      "cycle": 155,
+      "frames": 116599,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 676470,
+      "cycle": 156,
+      "frames": 117340,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 680657,
+      "cycle": 157,
+      "frames": 118063,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 684946,
+      "cycle": 158,
+      "frames": 118784,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 689245,
+      "cycle": 159,
+      "frames": 119516,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 693462,
+      "cycle": 160,
+      "frames": 120241,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 697922,
+      "cycle": 161,
+      "frames": 120975,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 702191,
+      "cycle": 162,
+      "frames": 121701,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 706470,
+      "cycle": 163,
+      "frames": 122431,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 710782,
+      "cycle": 164,
+      "frames": 123157,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 714995,
+      "cycle": 165,
+      "frames": 123879,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 719428,
+      "cycle": 166,
+      "frames": 124610,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 723612,
+      "cycle": 167,
+      "frames": 125337,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 727890,
+      "cycle": 168,
+      "frames": 126061,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 732183,
+      "cycle": 169,
+      "frames": 126789,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 736430,
+      "cycle": 170,
+      "frames": 127507,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 740868,
+      "cycle": 171,
+      "frames": 128244,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 745080,
+      "cycle": 172,
+      "frames": 128970,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 749342,
+      "cycle": 173,
+      "frames": 129689,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 753640,
+      "cycle": 174,
+      "frames": 130415,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 757823,
+      "cycle": 175,
+      "frames": 131140,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 762254,
+      "cycle": 176,
+      "frames": 131864,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 766443,
+      "cycle": 177,
+      "frames": 132593,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 770745,
+      "cycle": 178,
+      "frames": 133315,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 775070,
+      "cycle": 179,
+      "frames": 134046,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 779254,
+      "cycle": 180,
+      "frames": 134773,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 783733,
+      "cycle": 181,
+      "frames": 135497,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 787922,
+      "cycle": 182,
+      "frames": 136234,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 792184,
+      "cycle": 183,
+      "frames": 136955,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 796495,
+      "cycle": 184,
+      "frames": 137680,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 800715,
+      "cycle": 185,
+      "frames": 138405,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 805138,
+      "cycle": 186,
+      "frames": 139130,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 809333,
+      "cycle": 187,
+      "frames": 139857,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 813608,
+      "cycle": 188,
+      "frames": 140581,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 817945,
+      "cycle": 189,
+      "frames": 141305,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 822150,
+      "cycle": 190,
+      "frames": 142042,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 826623,
+      "cycle": 191,
+      "frames": 142762,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 830820,
+      "cycle": 192,
+      "frames": 143495,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 835109,
+      "cycle": 193,
+      "frames": 144224,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 839420,
+      "cycle": 194,
+      "frames": 144950,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 843610,
+      "cycle": 195,
+      "frames": 145678,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 848050,
+      "cycle": 196,
+      "frames": 146404,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 852298,
+      "cycle": 197,
+      "frames": 147128,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 856616,
+      "cycle": 198,
+      "frames": 147859,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 860961,
+      "cycle": 199,
+      "frames": 148591,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 865183,
+      "cycle": 200,
+      "frames": 149320,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 869651,
+      "cycle": 201,
+      "frames": 150048,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 873833,
+      "cycle": 202,
+      "frames": 150781,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 878167,
+      "cycle": 203,
+      "frames": 151508,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 882468,
+      "cycle": 204,
+      "frames": 152235,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 886690,
+      "cycle": 205,
+      "frames": 152960,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 891111,
+      "cycle": 206,
+      "frames": 153691,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 895320,
+      "cycle": 207,
+      "frames": 154413,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 899638,
+      "cycle": 208,
+      "frames": 155141,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 903945,
+      "cycle": 209,
+      "frames": 155865,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 908129,
+      "cycle": 210,
+      "frames": 156590,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 912568,
+      "cycle": 211,
+      "frames": 157317,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 916754,
+      "cycle": 212,
+      "frames": 158042,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 921037,
+      "cycle": 213,
+      "frames": 158766,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 925343,
+      "cycle": 214,
+      "frames": 159496,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 929531,
+      "cycle": 215,
+      "frames": 160217,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 933979,
+      "cycle": 216,
+      "frames": 160943,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 938170,
+      "cycle": 217,
+      "frames": 161670,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 942477,
+      "cycle": 218,
+      "frames": 162392,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 946801,
+      "cycle": 219,
+      "frames": 163126,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 951071,
+      "cycle": 220,
+      "frames": 163854,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 955511,
+      "cycle": 221,
+      "frames": 164590,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 959701,
+      "cycle": 222,
+      "frames": 165310,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 963981,
+      "cycle": 223,
+      "frames": 166037,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 968340,
+      "cycle": 224,
+      "frames": 166765,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 972567,
+      "cycle": 225,
+      "frames": 167496,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 977064,
+      "cycle": 226,
+      "frames": 168229,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 981253,
+      "cycle": 227,
+      "frames": 168963,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 985551,
+      "cycle": 228,
+      "frames": 169692,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 989875,
+      "cycle": 229,
+      "frames": 170416,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 994130,
+      "cycle": 230,
+      "frames": 171148,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 998574,
+      "cycle": 231,
+      "frames": 171881,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1002827,
+      "cycle": 232,
+      "frames": 172605,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1007137,
+      "cycle": 233,
+      "frames": 173335,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1011478,
+      "cycle": 234,
+      "frames": 174069,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1015715,
+      "cycle": 235,
+      "frames": 174803,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1020160,
+      "cycle": 236,
+      "frames": 175535,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1024368,
+      "cycle": 237,
+      "frames": 176262,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1028648,
+      "cycle": 238,
+      "frames": 176987,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1032958,
+      "cycle": 239,
+      "frames": 177709,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1037191,
+      "cycle": 240,
+      "frames": 178438,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1041635,
+      "cycle": 241,
+      "frames": 179166,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1045846,
+      "cycle": 242,
+      "frames": 179892,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1050131,
+      "cycle": 243,
+      "frames": 180620,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1054475,
+      "cycle": 244,
+      "frames": 181348,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1058723,
+      "cycle": 245,
+      "frames": 182077,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1063170,
+      "cycle": 246,
+      "frames": 182813,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1067353,
+      "cycle": 247,
+      "frames": 183535,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1071642,
+      "cycle": 248,
+      "frames": 184257,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1075958,
+      "cycle": 249,
+      "frames": 184986,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1080176,
+      "cycle": 250,
+      "frames": 185713,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1084627,
+      "cycle": 251,
+      "frames": 186447,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1088831,
+      "cycle": 252,
+      "frames": 187174,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1093111,
+      "cycle": 253,
+      "frames": 187899,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1097470,
+      "cycle": 254,
+      "frames": 188625,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1101712,
+      "cycle": 255,
+      "frames": 189356,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1106174,
+      "cycle": 256,
+      "frames": 190093,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1110365,
+      "cycle": 257,
+      "frames": 190820,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1114644,
+      "cycle": 258,
+      "frames": 191544,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1118960,
+      "cycle": 259,
+      "frames": 192269,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1123183,
+      "cycle": 260,
+      "frames": 192997,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1127619,
+      "cycle": 261,
+      "frames": 193728,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1131853,
+      "cycle": 262,
+      "frames": 194453,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1136159,
+      "cycle": 263,
+      "frames": 195186,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1140498,
+      "cycle": 264,
+      "frames": 195918,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1144724,
+      "cycle": 265,
+      "frames": 196651,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1149213,
+      "cycle": 266,
+      "frames": 197383,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1153432,
+      "cycle": 267,
+      "frames": 198114,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1157734,
+      "cycle": 268,
+      "frames": 198846,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1162066,
+      "cycle": 269,
+      "frames": 199571,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1166273,
+      "cycle": 270,
+      "frames": 200299,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1170733,
+      "cycle": 271,
+      "frames": 201023,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1174950,
+      "cycle": 272,
+      "frames": 201753,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1179249,
+      "cycle": 273,
+      "frames": 202479,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1183567,
+      "cycle": 274,
+      "frames": 203212,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1187756,
+      "cycle": 275,
+      "frames": 203935,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1192208,
+      "cycle": 276,
+      "frames": 204659,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1196413,
+      "cycle": 277,
+      "frames": 205387,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1200722,
+      "cycle": 278,
+      "frames": 206115,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1205100,
+      "cycle": 279,
+      "frames": 206853,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1209375,
+      "cycle": 280,
+      "frames": 207581,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1213814,
+      "cycle": 281,
+      "frames": 208323,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1218059,
+      "cycle": 282,
+      "frames": 209050,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1222335,
+      "cycle": 283,
+      "frames": 209780,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1226657,
+      "cycle": 284,
+      "frames": 210512,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1230886,
+      "cycle": 285,
+      "frames": 211240,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1235327,
+      "cycle": 286,
+      "frames": 211976,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1239556,
+      "cycle": 287,
+      "frames": 212702,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1243868,
+      "cycle": 288,
+      "frames": 213429,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1248194,
+      "cycle": 289,
+      "frames": 214161,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1252403,
+      "cycle": 290,
+      "frames": 214886,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1256834,
+      "cycle": 291,
+      "frames": 215616,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1261046,
+      "cycle": 292,
+      "frames": 216344,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1265338,
+      "cycle": 293,
+      "frames": 217072,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1269696,
+      "cycle": 294,
+      "frames": 217803,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1273957,
+      "cycle": 295,
+      "frames": 218532,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1278405,
+      "cycle": 296,
+      "frames": 219272,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1282616,
+      "cycle": 297,
+      "frames": 220000,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1286900,
+      "cycle": 298,
+      "frames": 220724,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1291234,
+      "cycle": 299,
+      "frames": 221447,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1295452,
+      "cycle": 300,
+      "frames": 222181,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1299879,
+      "cycle": 301,
+      "frames": 222910,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1304123,
+      "cycle": 302,
+      "frames": 223634,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1308397,
+      "cycle": 303,
+      "frames": 224366,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1312720,
+      "cycle": 304,
+      "frames": 225095,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1316919,
+      "cycle": 305,
+      "frames": 225817,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1321386,
+      "cycle": 306,
+      "frames": 226548,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1325592,
+      "cycle": 307,
+      "frames": 227278,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1329895,
+      "cycle": 308,
+      "frames": 228007,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1334245,
+      "cycle": 309,
+      "frames": 228734,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1338484,
+      "cycle": 310,
+      "frames": 229471,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1342957,
+      "cycle": 311,
+      "frames": 230200,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1347151,
+      "cycle": 312,
+      "frames": 230937,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1351442,
+      "cycle": 313,
+      "frames": 231661,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1355768,
+      "cycle": 314,
+      "frames": 232389,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1359962,
+      "cycle": 315,
+      "frames": 233117,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1364442,
+      "cycle": 316,
+      "frames": 233847,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1368678,
+      "cycle": 317,
+      "frames": 234570,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1373015,
+      "cycle": 318,
+      "frames": 235304,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1377351,
+      "cycle": 319,
+      "frames": 236044,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1381582,
+      "cycle": 320,
+      "frames": 236766,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1386035,
+      "cycle": 321,
+      "frames": 237501,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1390246,
+      "cycle": 322,
+      "frames": 238230,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1394539,
+      "cycle": 323,
+      "frames": 238953,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1398922,
+      "cycle": 324,
+      "frames": 239681,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1403160,
+      "cycle": 325,
+      "frames": 240417,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1407606,
+      "cycle": 326,
+      "frames": 241150,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1411833,
+      "cycle": 327,
+      "frames": 241875,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1416115,
+      "cycle": 328,
+      "frames": 242607,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1420432,
+      "cycle": 329,
+      "frames": 243336,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1424618,
+      "cycle": 330,
+      "frames": 244062,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1429068,
+      "cycle": 331,
+      "frames": 244783,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1433283,
+      "cycle": 332,
+      "frames": 245509,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1437587,
+      "cycle": 333,
+      "frames": 246240,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1441911,
+      "cycle": 334,
+      "frames": 246969,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1446126,
+      "cycle": 335,
+      "frames": 247698,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1450564,
+      "cycle": 336,
+      "frames": 248428,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1454759,
+      "cycle": 337,
+      "frames": 249153,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1459096,
+      "cycle": 338,
+      "frames": 249878,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1463509,
+      "cycle": 339,
+      "frames": 250616,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1467741,
+      "cycle": 340,
+      "frames": 251344,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1472232,
+      "cycle": 341,
+      "frames": 252075,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1476441,
+      "cycle": 342,
+      "frames": 252813,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1480742,
+      "cycle": 343,
+      "frames": 253542,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1485064,
+      "cycle": 344,
+      "frames": 254269,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1489282,
+      "cycle": 345,
+      "frames": 255001,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1493739,
+      "cycle": 346,
+      "frames": 255736,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1497946,
+      "cycle": 347,
+      "frames": 256460,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1502255,
+      "cycle": 348,
+      "frames": 257190,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1506582,
+      "cycle": 349,
+      "frames": 257919,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1510810,
+      "cycle": 350,
+      "frames": 258643,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1515261,
+      "cycle": 351,
+      "frames": 259379,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1519475,
+      "cycle": 352,
+      "frames": 260105,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1523829,
+      "cycle": 353,
+      "frames": 260876,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1528151,
+      "cycle": 354,
+      "frames": 261575,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1532384,
+      "cycle": 355,
+      "frames": 262180,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1536830,
+      "cycle": 356,
+      "frames": 262773,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1541038,
+      "cycle": 357,
+      "frames": 263375,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1545294,
+      "cycle": 358,
+      "frames": 263970,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1549580,
+      "cycle": 359,
+      "frames": 264561,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1553769,
+      "cycle": 360,
+      "frames": 265153,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1558217,
+      "cycle": 361,
+      "frames": 265752,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1562417,
+      "cycle": 362,
+      "frames": 266352,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1566714,
+      "cycle": 363,
+      "frames": 266953,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1571024,
+      "cycle": 364,
+      "frames": 267553,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1575280,
+      "cycle": 365,
+      "frames": 268147,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1579731,
+      "cycle": 366,
+      "frames": 268754,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1583930,
+      "cycle": 367,
+      "frames": 269356,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1588231,
+      "cycle": 368,
+      "frames": 269951,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1592548,
+      "cycle": 369,
+      "frames": 270558,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1596762,
+      "cycle": 370,
+      "frames": 271157,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1601234,
+      "cycle": 371,
+      "frames": 271755,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1605463,
+      "cycle": 372,
+      "frames": 272365,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1609748,
+      "cycle": 373,
+      "frames": 272963,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1614061,
+      "cycle": 374,
+      "frames": 273557,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1618284,
+      "cycle": 375,
+      "frames": 274156,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1622738,
+      "cycle": 376,
+      "frames": 274760,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1626957,
+      "cycle": 377,
+      "frames": 275361,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1631276,
+      "cycle": 378,
+      "frames": 275964,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1635599,
+      "cycle": 379,
+      "frames": 276561,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1639824,
+      "cycle": 380,
+      "frames": 277161,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1644285,
+      "cycle": 381,
+      "frames": 277762,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1648484,
+      "cycle": 382,
+      "frames": 278364,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1652763,
+      "cycle": 383,
+      "frames": 278961,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1657073,
+      "cycle": 384,
+      "frames": 279561,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1661298,
+      "cycle": 385,
+      "frames": 280157,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1665734,
+      "cycle": 386,
+      "frames": 280759,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1669975,
+      "cycle": 387,
+      "frames": 281361,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1674272,
+      "cycle": 388,
+      "frames": 281963,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1678602,
+      "cycle": 389,
+      "frames": 282566,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1682839,
+      "cycle": 390,
+      "frames": 283167,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1687282,
+      "cycle": 391,
+      "frames": 283774,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1691505,
+      "cycle": 392,
+      "frames": 284370,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1695781,
+      "cycle": 393,
+      "frames": 284969,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1700090,
+      "cycle": 394,
+      "frames": 285559,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1704322,
+      "cycle": 395,
+      "frames": 286160,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1708777,
+      "cycle": 396,
+      "frames": 286767,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1712975,
+      "cycle": 397,
+      "frames": 287368,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1717297,
+      "cycle": 398,
+      "frames": 287966,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1721636,
+      "cycle": 399,
+      "frames": 288565,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1725838,
+      "cycle": 400,
+      "frames": 289170,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1730285,
+      "cycle": 401,
+      "frames": 289767,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1734509,
+      "cycle": 402,
+      "frames": 290367,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1738794,
+      "cycle": 403,
+      "frames": 290966,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1743173,
+      "cycle": 404,
+      "frames": 291573,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1747369,
+      "cycle": 405,
+      "frames": 292175,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1751851,
+      "cycle": 406,
+      "frames": 292773,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1756079,
+      "cycle": 407,
+      "frames": 293376,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1760385,
+      "cycle": 408,
+      "frames": 293974,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1764681,
+      "cycle": 409,
+      "frames": 294570,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1768946,
+      "cycle": 410,
+      "frames": 295168,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1773405,
+      "cycle": 411,
+      "frames": 295776,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1777617,
+      "cycle": 412,
+      "frames": 296377,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1781891,
+      "cycle": 413,
+      "frames": 296973,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1786207,
+      "cycle": 414,
+      "frames": 297572,
+      "geometries": 126,
+      "textures": 4,
+      "vehicle": "sedan-03",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1790421,
+      "cycle": 415,
+      "frames": 298171,
+      "geometries": 120,
+      "textures": 4,
+      "vehicle": "sedan-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1794855,
+      "cycle": 416,
+      "frames": 298767,
+      "geometries": 103,
+      "textures": 4,
+      "vehicle": "suv-01",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1799096,
+      "cycle": 417,
+      "frames": 299364,
+      "geometries": 110,
+      "textures": 4,
+      "vehicle": "sedan-02",
+      "state": "ready"
+    },
+    {
+      "elapsedMs": 1803422,
+      "cycle": 418,
+      "frames": 299968,
+      "geometries": 118,
+      "textures": 4,
+      "vehicle": "suv-02",
+      "state": "ready"
+    }
+  ],
+  "errors": [],
+  "consoleErrors": [],
+  "networkFailures": []
+}

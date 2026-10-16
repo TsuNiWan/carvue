@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-16T16:19:30.048568+00:00",
+  "repository": "https://github.com/TsuNiWan/carvue",
+  "readmeMatches": true,
+  "images": [
+    {
+      "path": "docs/images/collection.webp",
+      "bytes": 113342,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "123676a7251ce2d1be854f0825932b5f12b59ac9ef4de0dab0296e08ebe4a66b",
+      "metadata": "No EXIF, XMP or comment"
+    },
+    {
+      "path": "docs/images/showroom.webp",
+      "bytes": 90162,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "c167b81b95064fa3b06fae31dd63dacf68a378e1af75c22883eec54d532d352a",
+      "metadata": "No EXIF, XMP or comment"
+    },
+    {
+      "path": "docs/images/open-parts.webp",
+      "bytes": 91276,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "f97602ad4da7cb58557db476e0056345ba9636e41b581a4b4c8a93f3efc020de",
+      "metadata": "No EXIF, XMP or comment"
+    },
+    {
+      "path": "docs/images/safety.webp",
+      "bytes": 78216,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "55e21c03fd1f26ac3e4a3c1d54ddbcc0ccfcb8f412fcbba9d741dffbb8e7cd71",
+      "metadata": "No EXIF, XMP or comment"
+    }
+  ]
+}

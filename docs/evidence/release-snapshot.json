@@ -1,5 +1,5 @@
 {
-  "recordedAt": "2026-10-16T15:43:55.998Z",
+  "recordedAt": "2026-10-16T16:41:13.404Z",
   "phase": "after",
   "hashes": {
     "assets/source/sedan-01/build-report.json": {
@@ -123,8 +123,8 @@
       "sha256": "5d8b92ed532d883df6c379f79866f4f39ee802b2276f4305d766a11dd9ccfb64"
     },
     "e2e/soak.spec.ts": {
-      "bytes": 4050,
-      "sha256": "d124e7adb4f5b1389dcb23e0ff754e456fc3c33f3f840f04d421e3367fc50258"
+      "bytes": 4855,
+      "sha256": "36fa190b2d0815aca490d385f6b0caaceb27d9d694c19b4fe48b3d228d6c9d69"
     },
     "index.html": {
       "bytes": 582,
@@ -139,8 +139,8 @@
       "sha256": "ef5d7b10def211083d385a4425d12c0e6d1105ad0d8ee06ca93925087f3493b0"
     },
     "playwright.config.ts": {
-      "bytes": 819,
-      "sha256": "9cb9635a3192a8cea1d5fcf8afb142d76bf86db9171f865ec2bc182238c45a3d"
+      "bytes": 972,
+      "sha256": "64d847c408d83d5c4751289eaf16cbb482d8db5628a582d6bc38ccdc51921b4d"
     },
     "public/models/sedan-01/1.1.0/manifest.json": {
       "bytes": 2838,

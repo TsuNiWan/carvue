@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-16T16:22:15.810772+00:00",
+  "repository": "https://github.com/TsuNiWan/carvue",
+  "pages": "https://tsuniwan.github.io/carvue/",
+  "commit": "6045924c0d7379ab05959176f59c150702c9598f",
+  "workflow": {
+    "id": 38930887403,
+    "url": "https://github.com/TsuNiWan/carvue/actions/runs/38930887403",
+    "conclusion": "success"
+  },
+  "readmeEvidence": "github-readme.json",
+  "cloneEvidence": "github-clone.json",
+  "siteEvidence": "published.json"
+}

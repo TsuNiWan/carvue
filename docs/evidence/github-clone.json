@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-10-16T16:21:23.013Z",
+  "source": "https://github.com/TsuNiWan/carvue.git",
+  "commit": "6045924c0d7379ab05959176f59c150702c9598f",
+  "node": "v24.19.0",
+  "independentInstall": "npm ci passed",
+  "buildAndTypecheck": "passed",
+  "devRoutes": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/src/main.ts",
+      "status": 200
+    },
+    {
+      "path": "/models/sedan-01/1.1.0/manifest.json",
+      "status": 200
+    }
+  ],
+  "historyPrivacy": {
+    "files": 293,
+    "issues": []
+  },
+  "storedObjects": 356,
+  "reachableObjects": 356,
+  "extraObjects": 0,
+  "refs": [
+    "refs/heads/main",
+    "refs/remotes/origin/main"
+  ]
+}

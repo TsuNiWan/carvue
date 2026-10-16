@@ -8,11 +8,12 @@
 | 單元測試 | 87／87 通過 |
 | 去品牌 GLB／可編輯來源 | 五款重建、八方位及開啟畫面審查完成 |
 | 素材／公開契約 | 全部通過；150 個實際 GLB 反向案例通過 |
-| Chrome／Edge 四桌機環境 | 169 項通過、79 項依範圍跳過，無未解決失敗 |
+| Chrome／Edge 四桌機環境 | 170 項通過、78 項依範圍跳過，無未解決失敗 |
 | 五車冷載／30 秒效能 | 全部通過，數據見下表 |
-| 20 次切車／30 分鐘長測 | 四種桌機環境切車通過；長測進行中 |
+| 20 次切車／30 分鐘長測 | 四種桌機環境切車通過；獨立長測 30 分 3 秒、419 次循環通過 |
 | 正式產物根目錄／子路徑 | 通過：62 次資源檢查、9 條旅程、37 組版面檢查，無錯誤 |
-| 乾淨 clone／GitHub CI | 本機 main 的乾淨副本安裝、87 項測試、建置與啟動通過；GitHub 待發布驗證 |
+| 乾淨 clone／GitHub CI | 本機副本 87 項測試通過；GitHub 公開 clone 安裝、建置、啟動與歷史掃描通過，CI／Pages 成功 |
+| 公開網站 | 五車直達、四門及後廂、返回總覽通過；9 份資源內容比對一致，無頁面或 HTTP 錯誤 |
 
 ## 重現命令
 
@@ -42,9 +43,11 @@ Windows 核心版本 10.0.26300、Intel Core i7-8700K、32 GiB 記憶體、NVIDI
 
 首次 248 案例包含 5 個測試判定問題，以及 94 個 Edge 沙箱啟動失敗。修正量測起點與鏡頭位移判定後，12 項相關 Chrome 檢查全部通過（另 10 項依解析度跳過）。Edge 改在可正常啟動的權限環境重跑，72 項通過、52 項依範圍跳過。產品執行程式與五份 GLB 在重驗前後沒有改變；原始失敗紀錄仍保留，不以重跑結果覆寫。逐案例合併結果見 [瀏覽器驗證摘要](evidence/browser-summary.json)。
 
-79 個跳過項目包括只在 Chrome 1920×1080 執行的造型／效能檢查，以及另行執行的長測；不是未處理的功能失敗。正式產物驗證器另修正無副檔名 LICENSE 不一定有 Content-Type 的假設，仍逐檔檢查 HTTP 200 與內容雜湊。
+78 個跳過項目包括只在 Chrome 1920×1080 執行的造型／效能與長測在其他環境的案例；不是未處理的功能失敗。正式產物驗證器另修正無副檔名 LICENSE 不一定有 Content-Type 的假設，仍逐檔檢查 HTTP 200 與內容雜湊。
 
 首次長測在約 19 分 19 秒、234 次循環後，因本機開發伺服器拒絕連線而中斷，未達 30 分鐘，不能列為通過。已完成循環的幾何與貼圖數量均符合各車基準，沒有頁面例外。網路紀錄顯示預覽、manifest 與 favicon 同時發生 `ERR_CONNECTION_REFUSED`；尚無證據判定伺服器停止的根因。保留 [中斷紀錄](evidence/carvue-soak)，改用測試程序管理的專用伺服器重驗。
+
+專用伺服器的 [完整長測](evidence/carvue-soak-managed/soak-30m.json) 實際執行 1,803,433ms（30 分 3 秒）、419 次五車輪替循環，幾何與貼圖數量每次均回到該車基準，持續繪製，頁面例外、主控台錯誤及模型下載失敗均為 0。這驗證指定工作負載下的資源數量與執行穩定性，不等於完整 JavaScript heap 或 GPU 記憶體分析。測試前後 [129 份檔案雜湊](evidence/release-snapshot.json) 一致，五份發布模型沒有變動。
 
 ## 乾淨副本與公開檔案
 
@@ -59,3 +62,5 @@ Windows 核心版本 10.0.26300、Intel Core i7-8700K、32 GiB 記憶體、NVIDI
 GitHub Actions 在推送 main 後執行型別、單元、素材契約及建置檢查，再部署 GitHub Pages。PR 只檢查，不部署；儲存庫的 Pages Source 設為 GitHub Actions。CI 不取代固定硬體上的效能與長測。
 
 相依版本更新後執行 `node scripts/collect-notices.mjs` 更新第三方授權盤點。公開前的檔案與提交歷史檢查見 [隱私檢查](privacy-review.md)。
+
+公開 [儲存庫](https://github.com/TsuNiWan/carvue) 與 [網站](https://tsuniwan.github.io/carvue/) 已建立。發布證據見 [CI 紀錄](evidence/publication.json)、[GitHub 乾淨副本](evidence/github-clone.json)、[線上五車驗證](evidence/published.json)、[README 圖片](evidence/github-readme.json)。公開副本的 356 個 Git 物件全部屬於 main 歷史，沒有額外本機快照物件；全部歷史 293 份 blob 掃描未發現已知憑證格式或私人目錄。

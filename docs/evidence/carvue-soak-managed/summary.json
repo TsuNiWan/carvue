@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "total": 1,
+    "expected": 1,
+    "unexpected": 0,
+    "flaky": 0,
+    "skipped": 0,
+    "ok": true
+  },
+  "duration": 1828366.126,
+  "projectNames": [
+    "chrome-1920"
+  ],
+  "jsonMeasurements": 1
+}

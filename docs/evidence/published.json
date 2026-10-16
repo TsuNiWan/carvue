@@ -1,0 +1,104 @@
+{
+  "checkedAt": "2026-10-16T16:20:47.662Z",
+  "url": "https://tsuniwan.github.io/carvue/",
+  "resources": [
+    {
+      "file": "index.html",
+      "bytes": 669,
+      "sha256": "3452dd02fdacc9b1d8f1dadd047df1fb1bb1c5712618ebff1104944dc5126b6a",
+      "comparison": "LF-normalized text",
+      "status": 200
+    },
+    {
+      "file": "LICENSE",
+      "bytes": 1076,
+      "sha256": "ecd45e54976a74bbc90ddc8ac374cf1ebc0a579542484ac97713dc826e4fec41",
+      "comparison": "LF-normalized text",
+      "status": 200
+    },
+    {
+      "file": "ASSET_RIGHTS.md",
+      "bytes": 1528,
+      "sha256": "f5d4ce3ebb9197f2ed6f04945c904685ec1fdaef7e6ea3f6548192fb2d419bd0",
+      "comparison": "LF-normalized text",
+      "status": 200
+    },
+    {
+      "file": "THIRD_PARTY_NOTICES.md",
+      "bytes": 357796,
+      "sha256": "d4edff455ed5fef2fd3012b30d5fd8ac11f5acb9d640dab54846cef98fd779d5",
+      "comparison": "LF-normalized text",
+      "status": 200
+    },
+    {
+      "file": "models/sedan-01/1.1.0/vehicle.glb",
+      "bytes": 5131752,
+      "sha256": "1a6bd08696ff9d5e4bb34535e2077430e2b8498d520dcb318a670bc117f87212",
+      "comparison": "exact bytes",
+      "status": 200
+    },
+    {
+      "file": "models/suv-01/1.1.0/vehicle.glb",
+      "bytes": 11149960,
+      "sha256": "92b6e92044815063e9671091a2104d34a60138f59e0cbf248124f04f1bec1c13",
+      "comparison": "exact bytes",
+      "status": 200
+    },
+    {
+      "file": "models/sedan-02/1.1.0/vehicle.glb",
+      "bytes": 5566108,
+      "sha256": "6c758b8e3cbf33207a8e22991d2be2a1f2cffd793a68f49ecf8396ccb827f7ad",
+      "comparison": "exact bytes",
+      "status": 200
+    },
+    {
+      "file": "models/suv-02/1.1.0/vehicle.glb",
+      "bytes": 7441604,
+      "sha256": "17ff905b7377f8196841407e899184c6abc807162d7608a91509cd677c67b81e",
+      "comparison": "exact bytes",
+      "status": 200
+    },
+    {
+      "file": "models/sedan-03/1.1.0/vehicle.glb",
+      "bytes": 8327332,
+      "sha256": "be7bd04a5e3f7bd7cf2aad9b02e77977d434fd97f5d5674665a8250f30867672",
+      "comparison": "exact bytes",
+      "status": 200
+    }
+  ],
+  "journeys": [
+    {
+      "id": "sedan-01",
+      "directRoute": true,
+      "doorsAndTrunk": true,
+      "returnToCollection": true
+    },
+    {
+      "id": "suv-01",
+      "directRoute": true,
+      "doorsAndTrunk": true,
+      "returnToCollection": true
+    },
+    {
+      "id": "sedan-02",
+      "directRoute": true,
+      "doorsAndTrunk": true,
+      "returnToCollection": true
+    },
+    {
+      "id": "suv-02",
+      "directRoute": true,
+      "doorsAndTrunk": true,
+      "returnToCollection": true
+    },
+    {
+      "id": "sedan-03",
+      "directRoute": true,
+      "doorsAndTrunk": true,
+      "returnToCollection": true
+    }
+  ],
+  "errors": [],
+  "browserVersion": "155.0.8059.85",
+  "status": "passed"
+}

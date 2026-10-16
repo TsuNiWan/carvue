@@ -32,11 +32,33 @@
         "skipped": 52,
         "ok": true
       }
+    },
+    {
+      "batch": "carvue-soak",
+      "stats": {
+        "total": 1,
+        "expected": 0,
+        "unexpected": 1,
+        "flaky": 0,
+        "skipped": 0,
+        "ok": false
+      }
+    },
+    {
+      "batch": "carvue-soak-managed",
+      "stats": {
+        "total": 1,
+        "expected": 1,
+        "unexpected": 0,
+        "flaky": 0,
+        "skipped": 0,
+        "ok": true
+      }
     }
   ],
   "latestOutcomes": {
-    "expected": 169,
-    "skipped": 79
+    "expected": 170,
+    "skipped": 78
   },
   "totalUniqueCases": 248,
   "cases": [
@@ -3507,10 +3529,10 @@
         "line": 4,
         "column": 1
       },
-      "duration": 250,
-      "outcome": "skipped",
-      "ok": false,
-      "batch": "carvue-final"
+      "duration": 1824882,
+      "outcome": "expected",
+      "ok": true,
+      "batch": "carvue-soak-managed"
     }
   ]
 }

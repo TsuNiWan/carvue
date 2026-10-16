@@ -22,3 +22,7 @@
 變更加入暫存後執行 `node scripts/verification/staged-privacy.mjs`；使用 `--all` 可檢查整個 Git index，`--history` 檢查待發布 HEAD 的完整歷史。每個邏輯提交前執行掃描，最後再檢查完整提交內容與圖片。掃描結果位於本機忽略目錄 `artifacts/product/staged-privacy.json` 與 `history-privacy.json`，公開摘要隨發布驗證文件記錄。
 
 本機應用程式另有自動工作快照參照，可能保留舊工作資料；它們不屬於本次 main 分支的歷史。發布明確指定 `main:main`，不使用 mirror 或推送其他參照；乾淨 clone 再確認只取得公開分支內容。
+
+## 公開結果
+
+首次推送前掃描全部 291 個公開檔案，未發現已知憑證格式或私人目錄。從 GitHub 重新 clone 後掃描全部 293 份歷史 blob 與提交中繼資料，結果亦無發現；356 個實際儲存物件全部可由 main 到達，沒有額外快照物件。證據見 [公開副本](evidence/github-clone.json)。四張 README 公開圖片與本機版本一致，沒有 EXIF、XMP 或註解，見 [公開圖片檢查](evidence/github-readme.json)。
