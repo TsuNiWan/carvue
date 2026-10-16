@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "vehicleId": "sedan-01",
+  "assetVersion": "1.1.0",
+  "units": "meter",
+  "forward": "+Z",
+  "framing": {
+    "target": [
+      0,
+      0.6314,
+      0
+    ],
+    "direction": [
+      1.2,
+      0.46,
+      1.65
+    ],
+    "distance": 7.5006
+  },
+  "joints": {
+    "frontLeft": {
+      "node": "door_frontLeft",
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "openAngle": -1.1693705988362009
+    },
+    "frontRight": {
+      "node": "door_frontRight",
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "openAngle": 1.1693705988362009
+    },
+    "rearLeft": {
+      "node": "door_rearLeft",
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "openAngle": -1.1693705988362009
+    },
+    "rearRight": {
+      "node": "door_rearRight",
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "openAngle": 1.1693705988362009
+    },
+    "trunk": {
+      "node": "trunk",
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "openAngle": 1.2217304763960306
+    }
+  },
+  "frontWheels": [
+    "wheel_frontLeft",
+    "wheel_frontRight"
+  ],
+  "lights": {
+    "head": [
+      "Headlamp",
+      "HeadlampProjector"
+    ],
+    "tail": [
+      "Taillamp"
+    ],
+    "left": [
+      "SignalLeft"
+    ],
+    "right": [
+      "SignalRight"
+    ]
+  },
+  "headlights": [
+    {
+      "position": [
+        0.67,
+        0.865,
+        2.27
+      ],
+      "target": [
+        1.139,
+        0.05,
+        8.27
+      ]
+    },
+    {
+      "position": [
+        -0.67,
+        0.865,
+        2.27
+      ],
+      "target": [
+        -1.139,
+        0.05,
+        8.27
+      ]
+    }
+  ],
+  "hotspots": [
+    {
+      "id": "frontLeft",
+      "node": "door_frontLeft",
+      "position": [
+        0.04,
+        -0.12,
+        -0.64
+      ],
+      "label": "左前門"
+    },
+    {
+      "id": "frontRight",
+      "node": "door_frontRight",
+      "position": [
+        -0.04,
+        -0.12,
+        -0.64
+      ],
+      "label": "右前門"
+    },
+    {
+      "id": "rearLeft",
+      "node": "door_rearLeft",
+      "position": [
+        0.04,
+        -0.12,
+        -0.48
+      ],
+      "label": "左後門"
+    },
+    {
+      "id": "rearRight",
+      "node": "door_rearRight",
+      "position": [
+        -0.04,
+        -0.12,
+        -0.48
+      ],
+      "label": "右後門"
+    },
+    {
+      "id": "trunk",
+      "node": "trunk",
+      "position": [
+        0,
+        -0.12,
+        -0.79
+      ],
+      "label": "行李廂"
+    },
+    {
+      "id": "headlights",
+      "node": "VehicleRoot",
+      "position": [
+        0.72,
+        0.86,
+        2.3
+      ],
+      "label": "車輛照明"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "source": {
+    "path": "assets/source/suv-01/vehicle.raw.glb",
+    "bytes": 21036032,
+    "sha256": "1046d55bf9eeffce0393d19a2fcce329dea6a3465a1f38981cae1cdcd038337f"
+  },
+  "packed": {
+    "path": "public/models/suv-01/1.1.0/vehicle.glb",
+    "bytes": 11149960,
+    "sha256": "92b6e92044815063e9671091a2104d34a60138f59e0cbf248124f04f1bec1c13"
+  },
+  "ratio": 0.5300410267487708,
+  "meshes": 76,
+  "primitives": 76,
+  "attributes": 152,
+  "triangles": 1028368,
+  "checks": [
+    "Exact vertex attributes",
+    "Triangle corners and winding",
+    "Scene nodes and transforms",
+    "Material definitions",
+    "Joint names and identity extras"
+  ],
+  "checkedAt": "2026-10-16T14:48:19.124Z"
+}
